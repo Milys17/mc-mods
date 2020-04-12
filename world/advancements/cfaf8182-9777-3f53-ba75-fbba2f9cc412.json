@@ -449,6 +449,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "fire_sword": "2020-04-12 17:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-04-12 17:31:07 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/training_arrow": {
     "criteria": {
       "has_feather": "2020-04-09 05:01:16 +0000"
@@ -566,6 +578,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2020-04-09 19:41:59 +0000",
+      "wither_skeleton": "2020-04-12 17:33:22 +0000",
       "zombie_villager": "2020-04-09 21:40:07 +0000",
       "slime": "2020-04-11 02:28:12 +0000",
       "skeleton": "2020-04-09 19:53:54 +0000",
@@ -574,6 +587,7 @@
       "zombie": "2020-04-09 04:07:59 +0000",
       "silverfish": "2020-04-09 19:22:12 +0000",
       "spider": "2020-04-09 16:27:36 +0000",
+      "ghast": "2020-04-12 17:31:07 +0000",
       "creeper": "2020-04-10 04:06:08 +0000",
       "enderman": "2020-04-09 23:04:48 +0000"
     },
@@ -666,6 +680,12 @@
   "bullseye:recipes/combat/white_dye_arrow": {
     "criteria": {
       "has_topper": "2020-04-09 03:43:09 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/skull_chest": {
+    "criteria": {
+      "has_skull": "2020-04-12 17:33:25 +0000"
     },
     "done": true
   },
@@ -1326,6 +1346,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2020-04-12 20:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 17:03:11 +0000"
@@ -1404,6 +1430,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-12 17:56:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "bronze": "2020-04-10 04:44:16 +0000"
@@ -1447,6 +1479,7 @@
       "beetroot_soup": "2020-04-10 04:55:52 +0000",
       "potato": "2020-04-10 18:11:35 +0000",
       "bread": "2020-04-09 05:46:18 +0000",
+      "golden_apple": "2020-04-12 17:57:01 +0000",
       "carrot": "2020-04-09 22:17:37 +0000"
     },
     "done": false
@@ -1556,6 +1589,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-04-09 17:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-04-12 17:33:25 +0000"
     },
     "done": true
   },
@@ -2008,6 +2047,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2020-04-11 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/gold_skull_chest": {
+    "criteria": {
+      "has_skull": "2020-04-12 17:33:25 +0000"
     },
     "done": true
   },
