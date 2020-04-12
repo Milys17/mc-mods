@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-12 05:48:38 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2020-04-09 03:41:15 +0000"
@@ -512,6 +518,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2020-04-09 21:34:12 +0000",
+      "slime": "2020-04-12 04:11:05 +0000",
       "skeleton": "2020-04-09 05:21:45 +0000",
       "husk": "2020-04-10 03:02:23 +0000",
       "zombie": "2020-04-09 03:49:08 +0000",
@@ -1158,6 +1165,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2020-04-12 06:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-09 03:42:52 +0000"
@@ -1221,6 +1234,12 @@
   "ferdinandsflowers:recipes/misc/b2_medium_blue_dye_commelina": {
     "criteria": {
       "has_medium_blue_commelina": "2020-04-09 21:56:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2020-04-12 06:21:31 +0000"
     },
     "done": true
   },
@@ -1380,6 +1399,7 @@
       "baked_potato": "2020-04-09 04:23:36 +0000",
       "spider_eye": "2020-04-09 06:42:14 +0000",
       "potato": "2020-04-10 03:41:00 +0000",
+      "bread": "2020-04-12 03:45:32 +0000",
       "rotten_flesh": "2020-04-10 03:23:15 +0000",
       "cookie": "2020-04-10 04:45:37 +0000",
       "cooked_chicken": "2020-04-11 04:43:53 +0000",
@@ -1510,6 +1530,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-04-10 04:02:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2020-04-12 05:14:12 +0000"
     },
     "done": true
   },
@@ -1978,6 +2004,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-04-10 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-04-12 05:48:38 +0000"
     },
     "done": true
   },

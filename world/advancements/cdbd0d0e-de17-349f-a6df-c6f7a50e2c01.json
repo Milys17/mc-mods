@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-11 23:21:01 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2020-04-09 03:38:57 +0000"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-04-11 23:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2020-04-09 03:39:21 +0000"
@@ -293,6 +305,12 @@
     },
     "done": true
   },
+  "fossil:fossil/dinopedia": {
+    "criteria": {
+      "iron_pickaxe": "2020-04-12 00:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2020-04-09 04:00:15 +0000"
@@ -308,6 +326,12 @@
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "fire": "2020-04-11 00:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2020-04-12 02:37:02 +0000"
     },
     "done": true
   },
@@ -377,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2020-04-11 23:44:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-09 04:03:28 +0000"
@@ -440,6 +470,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-04-11 04:37:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "fire_sword": "2020-04-12 00:54:21 +0000"
     },
     "done": true
   },
@@ -859,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2020-04-12 02:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2020-04-09 05:00:12 +0000"
@@ -913,6 +955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2020-04-12 02:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-04-09 04:17:19 +0000"
@@ -937,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-04-12 02:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2020-04-09 03:57:28 +0000"
@@ -958,6 +1012,12 @@
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2020-04-09 15:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-12 03:31:26 +0000"
     },
     "done": true
   },
@@ -1072,6 +1132,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-04-10 06:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-04-12 03:31:26 +0000"
     },
     "done": true
   },
@@ -1225,6 +1291,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2020-04-11 23:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-09 03:40:16 +0000"
@@ -1300,6 +1372,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-04-09 15:13:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2020-04-11 20:54:11 +0000"
     },
     "done": true
   },
@@ -1441,6 +1519,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-12 04:48:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "red": "2020-04-10 22:21:19 +0000"
@@ -1524,6 +1608,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "fire": "2020-04-12 00:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 04:03:28 +0000"
@@ -1587,6 +1677,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-04-09 04:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-04-12 04:33:58 +0000"
     },
     "done": true
   },
@@ -1666,6 +1762,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 03:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-04-12 04:54:14 +0000"
     },
     "done": true
   },
@@ -1897,6 +1999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2020-04-12 03:31:26 +0000"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/2_red_orange_dye_ocotillo": {
     "criteria": {
       "has_red_orange_ocotillo": "2020-04-09 14:19:58 +0000"
@@ -1966,6 +2074,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-09 22:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2020-04-12 03:31:26 +0000"
     },
     "done": true
   },
@@ -2134,6 +2248,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-04-10 05:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-04-11 23:21:01 +0000"
     },
     "done": true
   },
@@ -2335,6 +2455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-12 03:31:26 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/leather_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2020-04-09 05:51:15 +0000"
@@ -2362,6 +2488,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-04-11 00:38:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2020-04-12 03:47:22 +0000"
     },
     "done": true
   },
