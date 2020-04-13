@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "bestiary": "2020-04-13 06:13:24 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/fire_arrow": {
     "criteria": {
       "has_feather": "2020-04-09 14:59:44 +0000"
@@ -523,6 +529,7 @@
       "husk": "2020-04-10 03:02:23 +0000",
       "zombie": "2020-04-09 03:49:08 +0000",
       "silverfish": "2020-04-11 01:52:12 +0000",
+      "witch": "2020-04-13 05:55:22 +0000",
       "spider": "2020-04-09 04:29:11 +0000",
       "creeper": "2020-04-09 04:14:54 +0000",
       "enderman": "2020-04-12 17:54:57 +0000"
@@ -964,6 +971,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-04-09 21:46:34 +0000",
+      "swampland": "2020-04-13 05:53:46 +0000",
       "deep_ocean": "2020-04-09 05:01:02 +0000",
       "beaches": "2020-04-09 03:41:43 +0000",
       "extreme_hills_with_trees": "2020-04-10 04:38:04 +0000",
@@ -1396,6 +1404,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-04-13 01:30:46 +0000",
       "cooked_mutton": "2020-04-09 18:52:11 +0000",
       "baked_potato": "2020-04-09 04:23:36 +0000",
       "spider_eye": "2020-04-09 06:42:14 +0000",
@@ -1843,6 +1852,12 @@
   "bullseye:recipes/combat/lightning_arrow": {
     "criteria": {
       "has_feather": "2020-04-09 14:59:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2020-04-13 02:12:26 +0000"
     },
     "done": true
   },
@@ -2335,6 +2350,12 @@
   "bullseye:recipes/combat/brown_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-09 14:59:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2020-04-13 04:02:46 +0000"
     },
     "done": true
   },

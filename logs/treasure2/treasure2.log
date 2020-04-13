@@ -437,3 +437,50 @@
 2020-04-12 18:52:18,512 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: -248 74 -1096
 2020-04-12 18:52:20,915 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! UNCOMMON chest at coords: -40 64 -1144
 2020-04-12 18:52:22,739 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: -8 90 -904
+2020-04-12 21:13:49,453 [Server thread] ERROR GottschCore | LootTableMaster.java:249 | Unable to locate resource /loot_tables/mocreatures/treasure/
+2020-04-12 21:13:49,460 [Server thread] ERROR GottschCore | LootTableMaster.java:249 | Unable to locate resource /loot_tables/mocreatures/potions/
+2020-04-12 21:13:49,462 [Server thread] ERROR GottschCore | LootTableMaster.java:249 | Unable to locate resource /loot_tables/mocreatures/chests/special/
+2020-04-12 21:13:49,482 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-04-12 21:13:49,966 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-04-12 21:13:50,719 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json
+2020-04-13 05:35:32,693 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! RARE chest at coords: 67 47 728
+2020-04-13 05:36:24,555 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! SCARCE chest at coords: 98 31 928
+2020-04-13 05:36:50,038 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! EPIC chest at coords: 31 31 936
+2020-04-13 05:37:02,053 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! SCARCE chest at coords: -40 42 920
+2020-04-13 05:38:19,077 [Server thread] WARN GottschCore | LootTable.java:71 | Tried to over-fill a container
+2020-04-13 05:38:19,077 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! RARE chest at coords: -130 31 958
+2020-04-13 05:38:41,539 [Server thread] WARN GottschCore | LootTableManager.java:122 | Couldn't find resource table treasure2:potions/common
+2020-04-13 05:38:41,539 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! SCARCE chest at coords: -56 35 1360
+2020-04-13 05:39:31,932 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! RARE chest at coords: -120 52 1576
+2020-04-13 05:39:36,448 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! SCARCE chest at coords: 200 37 1298
+2020-04-13 05:40:58,390 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! EPIC chest at coords: 248 48 1416
+2020-04-13 05:40:59,027 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! UNCOMMON chest at coords: 248 67 1560
+2020-04-13 05:41:03,394 [Server thread] INFO Treasure2 | WellGenerator.java:122 | CHEATER! Wishing Well at coords: 278 64 1606
+2020-04-13 05:41:14,601 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 312 63 1496
+2020-04-13 05:41:25,384 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! SCARCE chest at coords: 360 65 1576
+2020-04-13 05:41:27,775 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 392 68 1480
+2020-04-13 05:41:33,097 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! EPIC chest at coords: 280 63 1688
+2020-04-13 05:44:10,365 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! SCARCE chest at coords: 504 73 1512
+2020-04-13 05:44:23,760 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! SCARCE chest at coords: 488 45 1784
+2020-04-13 05:44:59,381 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! RARE chest at coords: 440 67 1384
+2020-04-13 05:47:11,625 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 552 72 1432
+2020-04-13 05:47:16,103 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! UNCOMMON chest at coords: 520 73 1320
+2020-04-13 05:47:21,432 [Server thread] INFO Treasure2 | WellGenerator.java:122 | CHEATER! Wishing Well at coords: 598 68 1398
+2020-04-13 05:47:21,786 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 600 70 1560
+2020-04-13 05:47:29,248 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! UNCOMMON chest at coords: 632 68 1448
+2020-04-13 05:47:32,850 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 584 68 1240
+2020-04-13 05:47:34,922 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! UNCOMMON chest at coords: 584 69 1160
+2020-04-13 05:47:35,733 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 664 68 1176
+2020-04-13 05:47:45,757 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! UNCOMMON chest at coords: 680 70 1352
+2020-04-13 05:48:15,074 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! RARE chest at coords: 744 45 1520
+2020-04-13 05:48:18,204 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 760 65 1400
+2020-04-13 05:50:27,369 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 776 67 1208
+2020-04-13 05:50:46,148 [Server thread] INFO Treasure2 | WellGenerator.java:122 | CHEATER! Wishing Well at coords: 840 63 1176
+2020-04-13 05:51:23,913 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 232 69 -808
+2020-04-13 05:51:51,010 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! UNCOMMON chest at coords: 360 70 -840
+2020-04-13 05:53:45,073 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! UNCOMMON chest at coords: 296 68 -888
+2020-04-13 05:53:54,997 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 168 81 -888
+2020-04-13 05:54:54,621 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 232 80 -952
+2020-04-13 05:54:59,382 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! UNCOMMON chest at coords: 440 64 1096
+2020-04-13 05:55:21,804 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:287 | CHEATER! SCARCE chest at coords: 360 39 1176
+2020-04-13 05:55:54,805 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 104 64 -952

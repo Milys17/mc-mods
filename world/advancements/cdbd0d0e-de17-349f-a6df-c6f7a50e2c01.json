@@ -697,6 +697,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t2_altar": {
+    "criteria": {
+      "altar_craft_t2_altar": "2020-04-13 04:36:44 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/figurine": {
     "criteria": {
       "broken_sword": "2020-04-09 22:55:43 +0000"
@@ -1063,6 +1069,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b8_light_lavender_dye_crocus": {
+    "criteria": {
+      "has_light_lavender_crocus": "2020-04-12 21:29:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2020-04-09 04:06:54 +0000"
@@ -1090,6 +1102,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-04-10 05:46:52 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2020-04-13 03:43:36 +0000"
     },
     "done": true
   },
@@ -2360,6 +2378,12 @@
     },
     "done": true
   },
+  "fossil:fossil/scarab": {
+    "criteria": {
+      "broken_sword": "2020-04-13 01:50:45 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/lime_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-09 04:20:06 +0000"
@@ -2513,6 +2537,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 03:49:44 +0000"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/misc/b8b_light_lavender_dye_heavenly": {
+    "criteria": {
+      "has_the_recipe": "2020-04-12 21:29:17 +0000"
     },
     "done": true
   },

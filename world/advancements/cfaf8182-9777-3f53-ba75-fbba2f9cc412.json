@@ -59,9 +59,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-04-12 22:51:58 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2020-04-09 03:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-04-12 23:57:03 +0000"
     },
     "done": true
   },
@@ -92,6 +104,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-09 03:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-12 22:51:58 +0000"
     },
     "done": true
   },
@@ -509,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-04-12 22:51:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2020-04-09 19:10:54 +0000"
@@ -580,12 +604,14 @@
       "zombie_pigman": "2020-04-09 19:41:59 +0000",
       "wither_skeleton": "2020-04-12 17:33:22 +0000",
       "zombie_villager": "2020-04-09 21:40:07 +0000",
+      "magma_cube": "2020-04-13 00:52:46 +0000",
       "slime": "2020-04-11 02:28:12 +0000",
       "skeleton": "2020-04-09 19:53:54 +0000",
       "husk": "2020-04-10 06:08:02 +0000",
       "blaze": "2020-04-12 01:29:39 +0000",
       "zombie": "2020-04-09 04:07:59 +0000",
       "silverfish": "2020-04-09 19:22:12 +0000",
+      "witch": "2020-04-13 00:02:26 +0000",
       "spider": "2020-04-09 16:27:36 +0000",
       "ghast": "2020-04-12 17:31:07 +0000",
       "creeper": "2020-04-10 04:06:08 +0000",
@@ -632,6 +658,12 @@
   "fossil:fossil/stegosaurus": {
     "criteria": {
       "iron_pickaxe": "2020-04-10 03:21:49 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:craft_t2_altar": {
+    "criteria": {
+      "altar_craft_t2_altar": "2020-04-13 04:40:12 +0000"
     },
     "done": true
   },
@@ -947,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-04-12 22:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-09 16:45:59 +0000"
@@ -1013,6 +1051,12 @@
     },
     "done": true
   },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2020-04-13 03:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-04-09 05:21:11 +0000"
@@ -1043,6 +1087,7 @@
       "forest_hills": "2020-04-09 06:45:55 +0000",
       "plains": "2020-04-09 04:03:03 +0000",
       "savanna": "2020-04-09 20:37:41 +0000",
+      "savanna_rock": "2020-04-12 21:54:13 +0000",
       "ocean": "2020-04-09 04:08:55 +0000",
       "extreme_hills": "2020-04-09 03:45:08 +0000",
       "roofed_forest": "2020-04-09 03:40:39 +0000",
@@ -1142,6 +1187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-04-12 21:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 17:03:11 +0000"
@@ -1193,6 +1244,18 @@
   "ferdinandsflowers:recipes/misc/6b_yellow_dye_daffodil": {
     "criteria": {
       "has_yellow_daffodil": "2020-04-09 22:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2020-04-12 21:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-04-12 22:08:54 +0000"
     },
     "done": true
   },
@@ -1475,11 +1538,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2020-04-12 03:57:19 +0000",
+      "cooked_beef": "2020-04-12 22:21:58 +0000",
       "baked_potato": "2020-04-09 05:45:00 +0000",
       "beetroot_soup": "2020-04-10 04:55:52 +0000",
+      "apple": "2020-04-13 02:13:45 +0000",
       "potato": "2020-04-10 18:11:35 +0000",
       "bread": "2020-04-09 05:46:18 +0000",
       "golden_apple": "2020-04-12 17:57:01 +0000",
+      "cooked_chicken": "2020-04-12 22:46:00 +0000",
       "carrot": "2020-04-09 22:17:37 +0000"
     },
     "done": false
@@ -1804,6 +1870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-04-12 22:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-04-09 20:08:42 +0000"
@@ -1855,6 +1927,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-04-09 05:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-12 22:51:58 +0000"
     },
     "done": true
   },
@@ -2515,6 +2593,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-09 17:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2020-04-12 22:08:54 +0000"
     },
     "done": true
   }
