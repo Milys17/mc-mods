@@ -1,437 +1,103 @@
-[00:01:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved too quickly! 226.86729945211817,-31.5,53.199999988079085
-[00:01:54] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:08:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:snake that already exists with UUID fd318b7c-666f-4327-87e1-9dff06eb1580
-[00:09:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved wrongly!
-[00:31:46] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[00:31:46] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 80 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[00:31:46] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[00:31:46] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[00:31:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:31:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.165.157:60195] logged in with entity id 253058 at (412.3275897728185, 79.0, -3.01645314171685)
-[00:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
-[00:31:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/253058, l='world', x=412.33, y=79.00, z=-3.02] connected. Sending ping
-[00:31:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Milys17...
-[00:31:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Milys17
-[00:45:24] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@78586a40)
-[00:50:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> wow
-[00:51:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Koutarou> manten presionado XD
-[00:55:49] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[00:55:49] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[00:55:49] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[00:55:50] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[00:55:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:55:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pencoold[/201.234.123.3:7737] logged in with entity id 270985 at (411.4480469267107, 76.0, -14.329809914447418)
-[00:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold joined the game
-[00:55:52] [Server thread/INFO] [Waila]: Player EntityPlayerMP['pencoold'/270985, l='world', x=411.45, y=76.00, z=-14.33] connected. Sending ping
-[00:55:52] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for pencoold...
-[00:55:52] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to pencoold
-[00:56:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved too quickly! -0.32352379981182366,2.454390919862206,-9.981553120697214
-[00:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
-[01:00:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
-[01:00:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
-[01:01:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved too quickly! -226.33743494887685,32.5,-53.67281850977073
-[01:06:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Disconnected
-[01:06:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
-[01:08:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: soruame moved wrongly!
-[01:16:41] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[01:16:41] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[01:16:41] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[01:16:41] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[01:16:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:16:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:2468] logged in with entity id 285001 at (230.89953224705752, 52.875, 116.08269645098267)
-[01:16:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
-[01:16:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/285001, l='world', x=230.90, y=52.88, z=116.08] connected. Sending ping
-[01:16:42] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
-[01:16:42] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
-[01:18:28] [Server thread/INFO] [FML]: Unloading dimension -1
-[01:24:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold is bleeding...
-[01:24:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold went up in flames
-[01:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold is bleeding...
-[01:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold fell from a high place
-[01:26:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved wrongly!
-[01:33:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2054ms behind, skipping 41 tick(s)
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:34:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[01:39:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved wrongly!
-[01:40:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved wrongly!
-[01:40:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved wrongly!
-[01:40:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved wrongly!
-[01:40:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved wrongly!
-[01:50:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou has completed the challenge [Winning the Lottery]
-[02:00:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[02:00:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
-[02:02:36] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[02:02:36] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[02:02:36] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[02:02:36] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[02:02:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:02:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:59497] logged in with entity id 322890 at (251.60463583082935, 63.0, -3.981659209099451)
-[02:02:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
-[02:02:38] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/322890, l='world', x=251.60, y=63.00, z=-3.98] connected. Sending ping
-[02:02:38] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
-[02:02:38] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
-[02:05:34] [Server thread/INFO] [mca]: Villager death: Delmar. Caused by: Zombie. UUID: 3f36df6a-e2d0-4305-9365-d69d39408e47
-[02:10:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:snake that already exists with UUID fd318b7c-666f-4327-87e1-9dff06eb1580
-[02:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold has made the advancement [Dragon Commander]
-[02:19:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:snake that already exists with UUID fd318b7c-666f-4327-87e1-9dff06eb1580
-[02:20:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:snake that already exists with UUID fd318b7c-666f-4327-87e1-9dff06eb1580
-[02:28:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pencoold lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[02:28:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold left the game
-[02:29:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:snake that already exists with UUID fd318b7c-666f-4327-87e1-9dff06eb1580
-[02:33:36] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[02:33:36] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[02:33:36] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[02:33:36] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[02:33:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:33:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pencoold[/201.234.123.3:10793] logged in with entity id 371393 at (415.91635155400564, 79.0, -11.503079508080909)
-[02:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold joined the game
-[02:33:38] [Server thread/INFO] [Waila]: Player EntityPlayerMP['pencoold'/371393, l='world', x=415.92, y=79.00, z=-11.50] connected. Sending ping
-[02:33:38] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for pencoold...
-[02:33:38] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to pencoold
-[02:37:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pencoold lost connection: Disconnected
-[02:37:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold left the game
-[02:37:21] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[02:37:21] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[02:37:21] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[02:37:21] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[02:37:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:37:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pencoold[/201.234.123.3:10916] logged in with entity id 373956 at (420.35859987340257, 113.0, -6.880693875296279)
-[02:37:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold joined the game
-[02:37:23] [Server thread/INFO] [Waila]: Player EntityPlayerMP['pencoold'/373956, l='world', x=420.36, y=113.00, z=-6.88] connected. Sending ping
-[02:37:23] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for pencoold...
-[02:37:23] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to pencoold
-[02:44:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <soruame> zzz
-[02:44:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Koutarou> zzz
-[02:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <soruame> tienes lingote de sangre de dragon??
-[02:55:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Koutarou> no
-[03:17:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: soruame moved too quickly! 8.659981988493428,-1.0,-5.342691626705687
-[03:17:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved too quickly! 0.07886932709322991,-5.145106700651638,-8.94733869908122
-[03:17:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4664ms behind, skipping 93 tick(s)
-[03:52:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pencoold lost connection: Disconnected
-[03:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold left the game
-[03:52:15] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[03:52:15] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[03:52:15] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[03:52:15] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[03:52:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:52:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pencoold[/201.234.123.3:12988] logged in with entity id 455326 at (410.4151874087758, 81.0, -12.843697265182906)
-[03:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold joined the game
-[03:52:18] [Server thread/INFO] [Waila]: Player EntityPlayerMP['pencoold'/455326, l='world', x=410.42, y=81.00, z=-12.84] connected. Sending ping
-[03:52:18] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for pencoold...
-[03:52:18] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to pencoold
-[03:56:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pencoold lost connection: Disconnected
-[03:56:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold left the game
-[03:56:51] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[03:56:51] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[03:56:51] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[03:56:52] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[03:56:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:56:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pencoold[/201.234.123.3:13121] logged in with entity id 457433 at (411.07904863368725, 81.0, -9.72033341410623)
-[03:56:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold joined the game
-[03:56:54] [Server thread/INFO] [Waila]: Player EntityPlayerMP['pencoold'/457433, l='world', x=411.08, y=81.00, z=-9.72] connected. Sending ping
-[03:56:54] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for pencoold...
-[03:56:54] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to pencoold
-[04:02:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold has made the advancement [An Ear-Shattering Roar]
-[04:15:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pencoold lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[04:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold left the game
-[04:17:47] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[04:17:47] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[04:17:47] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[04:17:47] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[04:17:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:17:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pencoold[/201.234.123.3:13763] logged in with entity id 465648 at (433.0563773144926, 113.0, -0.5111635507067669)
-[04:17:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold joined the game
-[04:17:51] [Server thread/INFO] [Waila]: Player EntityPlayerMP['pencoold'/465648, l='world', x=433.06, y=113.00, z=-0.51] connected. Sending ping
-[04:17:51] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for pencoold...
-[04:17:51] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to pencoold
-[04:18:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pencoold lost connection: Disconnected
-[04:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold left the game
-[04:18:39] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[04:18:39] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[04:18:39] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[04:18:39] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[04:18:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:18:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: pencoold[/201.234.123.3:13793] logged in with entity id 465856 at (433.0563773144926, 113.0, -0.5111635507067669)
-[04:18:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold joined the game
-[04:18:41] [Server thread/INFO] [Waila]: Player EntityPlayerMP['pencoold'/465856, l='world', x=433.06, y=113.00, z=-0.51] connected. Sending ping
-[04:18:41] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for pencoold...
-[04:18:41] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to pencoold
-[04:29:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[04:29:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
-[04:31:48] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[04:31:48] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[04:31:48] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[04:31:48] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[04:31:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:31:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:42432] logged in with entity id 471369 at (459.5453415114988, 131.0, -46.58019961246539)
-[04:31:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
-[04:31:49] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/471369, l='world', x=459.55, y=131.00, z=-46.58] connected. Sending ping
-[04:31:49] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
-[04:31:49] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
-[05:06:23] [Server thread/INFO] [FTB Utilities]: soruame is now AFK
-[05:06:39] [Server thread/INFO] [FTB Utilities]: soruame is no longer AFK
-[05:23:36] [Server thread/INFO] [FTB Utilities]: pencoold is now AFK
-[05:31:35] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:31:45] [Server thread/INFO] [Astral Sorcery]: Load CachedWorldData 'structures' for world 0
-[05:31:45] [Server thread/INFO] [Astral Sorcery]: Loading of 'structures' for world 0 finished.
-[05:31:51] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:31:51] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:31:52] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:31:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! -3.4510305627765945,0.0,9.810725745628787
-[05:31:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2175ms behind, skipping 43 tick(s)
-[05:31:58] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:32:01] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:32:13] [Server thread/INFO] [mca]: Villager death: Maple. Caused by: inWall. UUID: 05255b64-5a47-4615-a55f-62e74da26bb5
-[05:34:04] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:34:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: soruame moved wrongly!
-[05:35:55] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:36:21] [Server thread/INFO] [mca]: Villager death: Arturo. Caused by: drown. UUID: 978f41a7-c8cd-4c51-8dde-3791dbf0d873
-[05:36:24] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [6, 57] in dimension 0 (overworld) while populating chunk [7, 58], causing cascading worldgen lag.
-[05:36:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:36:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2603ms behind, skipping 52 tick(s)
-[05:36:36] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [5, 64] in dimension 0 (overworld) while populating chunk [6, 63], causing cascading worldgen lag.
-[05:36:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:36:36] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:36] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:36:38] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:36:40] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:36:40] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:40] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:36:41] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:43] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:43] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:43] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:36:44] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:48] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:48] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:49] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [1, 58] in dimension 0 (overworld) while populating chunk [2, 58], causing cascading worldgen lag.
-[05:36:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:36:50] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [0, 58] in dimension 0 (overworld) while populating chunk [2, 58], causing cascading worldgen lag.
-[05:36:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:36:50] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:50] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:36:52] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:36:52] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:36:55] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:36:55] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:36:55] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:37:02] [Server thread/INFO] [mca]: Villager death: Tomasa. Caused by: Cody. UUID: 6dab32c0-8425-488e-a054-519a02cc45f8
-[05:37:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 16939ms behind, skipping 338 tick(s)
-[05:37:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2882ms behind, skipping 57 tick(s)
-[05:37:18] [Server thread/INFO] [mca]: Villager death: Cordia. Caused by: Ora. UUID: ef12f8ee-6c94-4c4e-becd-1226a4b4b17b
-[05:37:19] [Server thread/INFO] [mca]: Villager death: Tracee. Caused by: Cody. UUID: bcc554c6-b2b0-4a8d-be7c-d8f966750cff
-[05:37:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3869ms behind, skipping 77 tick(s)
-[05:37:37] [Server thread/INFO] [mca]: Villager death: Parthenia. Caused by: Harry. UUID: 5959613f-68bf-4ae5-a343-c87eff817f64
-[05:37:43] [Server thread/INFO] [mca]: Villager death: Soila. Caused by: Chassity. UUID: d620d849-05bf-47ae-b336-3e0af42c723b
-[05:37:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID b12a4322-0792-4bad-a5ec-2ae388082b1c
-[05:38:09] [Server thread/INFO] [mca]: Villager death: Ora. Caused by: drown. UUID: ed637eb6-d066-4785-90cc-c3cb7e2f83cc
-[05:38:19] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [-8, 59] in dimension 0 (overworld) while populating chunk [-8, 60], causing cascading worldgen lag.
-[05:38:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:38:19] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [-8, 58] in dimension 0 (overworld) while populating chunk [-8, 60], causing cascading worldgen lag.
-[05:38:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:38:19] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [-9, 59] in dimension 0 (overworld) while populating chunk [-8, 60], causing cascading worldgen lag.
-[05:38:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:38:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4318ms behind, skipping 86 tick(s)
-[05:38:30] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:38:32] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:38:32] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [0, 82] in dimension 0 (overworld) while populating chunk [0, 81], causing cascading worldgen lag.
-[05:38:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:38:32] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:38:35] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:38:35] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:38:36] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:38:36] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:38:50] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10681ms behind, skipping 213 tick(s)
-[05:38:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 0.26246808289821644,0.0,10.303135441769655
-[05:38:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 0.2956623741446833,0.0,10.700953196695764
-[05:38:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 0.3295533219342488,0.0,11.098786658969857
-[05:38:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 0.36408270701609524,0.0,11.496633099291557
-[05:38:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3162ms behind, skipping 63 tick(s)
-[05:38:59] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:39:01] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-13, 94] in dimension 0 (overworld) while populating chunk [-14, 94], causing cascading worldgen lag.
-[05:39:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:39:01] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:39:01] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:39:01] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[05:39:02] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:39:03] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:39:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: soruame moved wrongly!
-[05:39:05] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:39:10] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:39:10] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:39:11] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:39:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2479ms behind, skipping 49 tick(s)
-[05:39:39] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:39:39] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:40:58] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [16, 88] in dimension 0 (overworld) while populating chunk [15, 88], causing cascading worldgen lag.
-[05:40:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:41:15] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:41:15] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:41:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2463ms behind, skipping 49 tick(s)
-[05:41:18] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:41:20] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 9.27558120561946,0.0,4.614448443927813
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 9.565666934556418,0.0,4.758761303334268
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 9.826744083683508,0.0,4.8886428733594585
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 10.061713511673332,0.0,5.005536283285437
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 10.273185991262068,0.0,5.110740349432035
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 10.467948311473009,0.0,5.2077288272651
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 10.647592605154614,0.0,5.297469169588794
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 10.813510016427102,0.0,5.380889370486557
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 10.966906142947266,0.0,5.458871228924181
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 11.108815512530441,0.0,5.532241664785715
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 11.240113599995226,0.0,5.601765907038271
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 11.361529188784573,0.0,5.668139690890939
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 11.470803215800203,0.0,5.727876094775866
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 11.569149837508974,0.0,5.781638856848076
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 11.657661794702108,0.0,5.830025341431337
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 11.737322554065628,0.0,5.873573176402488
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 11.823531037376881,0.0,5.950040203790195
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 11.913811502689612,0.0,6.056793254101876
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 12.006094164890953,0.0,6.191320101712563
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 12.098663030187964,0.0,6.351246219122913
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 12.190113084081844,0.0,6.534343116741866
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 12.279309498362977,0.0,6.738532209080859
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 12.365349250805934,0.0,6.961885060778059
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 12.447529172903813,0.0,7.202620288785056
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 12.525312545530255,0.0,7.459099023450108
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 12.598309878424914,0.0,7.729817798555587
-[05:41:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of soruame) moved too quickly! 12.666253576046756,0.0,8.013401578659114
-[05:41:24] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:41:24] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [23, 92] in dimension 0 (overworld) while populating chunk [23, 93], causing cascading worldgen lag.
-[05:41:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:41:25] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:41:26] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:41:26] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:41:26] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:41:26] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:41:26] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:41:26] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:41:27] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:41:27] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:41:27] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:41:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7741ms behind, skipping 154 tick(s)
-[05:42:32] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:42:35] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:42:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2739ms behind, skipping 54 tick(s)
-[05:44:02] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:44:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2012ms behind, skipping 40 tick(s)
-[05:44:28] [Server thread/INFO] [FTB Utilities]: pencoold is no longer AFK
-[05:44:34] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:44:49] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [32, 98] in dimension 0 (overworld) while populating chunk [32, 97], causing cascading worldgen lag.
-[05:44:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:44:49] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:44:49] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:45:50] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
-[05:47:05] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:47:06] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:47:06] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:47:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3179ms behind, skipping 63 tick(s)
-[05:47:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: pencoold moved wrongly!
-[05:47:22] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:47:26] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:47:27] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:47:27] [Server thread/WARN] [mca]: No skin found for profession: `roots:druid`. A random skin will be generated.
-[05:47:27] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:47:28] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:47:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: soruame moved too quickly! 0.8268359691758178,0.0,-10.060250466622392
-[05:47:39] [Server thread/INFO] [mca]: Villager death: Jessika. Caused by: Fire Dragon. UUID: 49907473-c608-4593-96df-d0c4a2d7a08f
-[05:47:45] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [42, 83] in dimension 0 (overworld) while populating chunk [42, 84], causing cascading worldgen lag.
-[05:47:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:47:50] [Server thread/INFO] [mca]: Villager death: Claude. Caused by: Fire Dragon. UUID: 41691464-ff64-497d-b999-bf7a1dac1f32
-[05:47:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 15030ms behind, skipping 300 tick(s)
-[05:48:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2030ms behind, skipping 40 tick(s)
-[05:48:19] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [35, 66] in dimension 0 (overworld) while populating chunk [36, 66], causing cascading worldgen lag.
-[05:48:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:48:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3148ms behind, skipping 62 tick(s)
-[05:48:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[05:48:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[05:48:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[05:48:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[05:49:12] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (17, -28) should be (17, -29), EntityNautilus['Nautilus'/555713, l='world', x=281.04, y=54.56, z=-439.12]
-[05:49:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity fossil:fossil.nautilus but it was marked as removed already
-[05:50:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2251ms behind, skipping 45 tick(s)
-[05:50:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7402ms behind, skipping 148 tick(s)
-[05:50:47] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:50:47] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:50:47] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:50:52] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
-[05:50:53] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:50:54] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:50:55] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:50:55] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:51:01] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11613ms behind, skipping 232 tick(s)
-[05:51:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2146ms behind, skipping 42 tick(s)
-[05:51:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3525ms behind, skipping 70 tick(s)
-[05:51:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10620ms behind, skipping 212 tick(s)
-[05:52:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2642ms behind, skipping 52 tick(s)
-[05:52:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2489ms behind, skipping 49 tick(s)
-[05:52:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3238ms behind, skipping 64 tick(s)
-[05:52:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2737ms behind, skipping 54 tick(s)
-[05:53:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2755ms behind, skipping 55 tick(s)
-[05:53:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3749ms behind, skipping 74 tick(s)
-[05:53:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2537ms behind, skipping 50 tick(s)
-[05:53:48] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [16, -58] in dimension 0 (overworld) while populating chunk [16, -57], causing cascading worldgen lag.
-[05:53:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[05:53:48] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
-[05:53:48] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:53:48] [Server thread/WARN] [mca]: No skin found for profession: `evilcraft:werewolf_villager`. A random skin will be generated.
-[05:53:52] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
-[05:54:07] [Server thread/INFO] [mca]: Villager death: Jefferey. Caused by: drown. UUID: 6e9e662c-2d66-46ab-8320-247780010ac7
-[05:54:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8978ms behind, skipping 179 tick(s)
-[05:54:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2008ms behind, skipping 40 tick(s)
-[05:54:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3351ms behind, skipping 67 tick(s)
-[05:55:14] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6332ms behind, skipping 126 tick(s)
-[05:55:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3149ms behind, skipping 62 tick(s)
-[05:55:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9508ms behind, skipping 190 tick(s)
-[05:56:03] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3443ms behind, skipping 68 tick(s)
-[05:56:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4179ms behind, skipping 83 tick(s)
-[05:56:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2645ms behind, skipping 52 tick(s)
-[05:56:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4397ms behind, skipping 87 tick(s)
-[05:58:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2724ms behind, skipping 54 tick(s)
-[05:59:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <pencoold> ZZZzz
-[05:59:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Koutarou> zzzz no
-[06:02:28] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:loot_tables/treasure2/chests/scarce/general_chest
-[06:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold has made the advancement [That's Quite Unethical]
-[06:13:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: pencoold moved wrongly!
-[06:14:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2381ms behind, skipping 47 tick(s)
-[06:14:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5201ms behind, skipping 104 tick(s)
-[06:15:03] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2887ms behind, skipping 57 tick(s)
-[06:15:09] [Server thread/INFO] [mca]: Villager death: Anibal. Caused by: inFire. UUID: 1f1b575e-c67c-43aa-87ed-47f64ac26a64
-[06:15:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2255ms behind, skipping 45 tick(s)
-[06:15:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3589ms behind, skipping 71 tick(s)
-[06:15:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold is bleeding...
-[06:15:45] [Server thread/INFO] [mca]: Villager death: Carol. Caused by: dragon_fire. UUID: 71a18850-da13-47db-bd6b-cdcc6648f875
-[06:15:46] [Server thread/INFO] [mca]: Villager death: Ismael. Caused by: dragon_fire. UUID: f6625d9b-78af-4752-8636-7421a663518f
-[06:15:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold burned to death
-[06:15:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2554ms behind, skipping 51 tick(s)
-[06:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Koutarou> dragon?
-[06:16:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: soruame lost connection: Disconnected
-[06:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame left the game
-[06:17:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
-[06:17:33] [Netty Epoll Server IO #1/ERROR] [mca]: Career ID wasn't assigned for UUID: e5d1c96c-036b-4679-a007-959918f15404
-[06:17:35] [Netty Epoll Server IO #1/ERROR] [mca]: Career ID wasn't assigned for UUID: 118bfedb-2525-480a-86dc-b01d798f5a04
-[06:17:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold is bleeding...
-[06:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold was incinerated by a dragon
-[06:18:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: pencoold lost connection: Disconnected
-[06:18:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: pencoold left the game
-[06:21:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Disconnected
-[06:21:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
-[07:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[07:10:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[07:10:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[07:10:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[07:10:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[07:10:08] [Server thread/INFO] [FML]: Unloading dimension 0
-[07:10:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[07:10:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[07:10:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:05:51] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5018f7d4)
+[00:05:54] [Server thread/WARN] [net.minecraft.entity.boss.dragon.phase.PhaseStrafePlayer]: Skipping player strafe phase because no player was found
+[00:06:54] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:06:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:08:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:11:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:12:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:13:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:16:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:17:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:17:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:19:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:21:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:21:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:22:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:23:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:25:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:27:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
+[00:35:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Disconnected
+[00:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
+[00:44:52] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:44:52] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
+[00:44:52] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[00:44:52] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:44:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:44:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:5320] logged in with entity id 268299 at (252.82829429471505, 63.0, -2.6525229684861547)
+[00:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
+[00:44:54] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/268299, l='world', x=252.83, y=63.00, z=-2.65] connected. Sending ping
+[00:44:54] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
+[00:44:54] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
+[00:54:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Disconnected
+[00:54:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
+[01:00:58] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:00:58] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
+[01:00:58] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[01:00:58] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:01:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:01:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:32510] logged in with entity id 276203 at (250.67564530916272, 71.0, -0.959242314216753)
+[01:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
+[01:01:00] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/276203, l='world', x=250.68, y=71.00, z=-0.96] connected. Sending ping
+[01:01:00] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
+[01:01:00] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
+[01:19:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved wrongly!
+[01:35:25] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
+[01:37:47] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
+[01:54:10] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
+[01:54:47] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
+[01:55:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5018f7d4)
+[01:55:21] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:11:07] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5018f7d4)
+[02:11:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Timed out
+[02:11:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
+[02:11:36] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:16:24] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:16:24] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
+[02:16:24] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[02:16:24] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:16:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:16:26] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5018f7d4)
+[02:16:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:40326] logged in with entity id 309929 at (100.5, 49.5, 0.5)
+[02:16:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
+[02:16:26] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/309929, l='world', x=100.50, y=49.50, z=0.50] connected. Sending ping
+[02:16:26] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
+[02:16:26] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
+[02:18:14] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:39:56] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
+[02:40:18] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
+[02:45:30] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
+[02:49:24] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
+[02:57:26] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
+[03:07:03] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
+[03:09:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Disconnected
+[03:09:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
+[04:08:46] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[04:08:46] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
+[04:08:46] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[04:08:46] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[04:08:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:08:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:2190] logged in with entity id 330166 at (432.7929950439521, 78.0, -10.429608284270474)
+[04:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
+[04:08:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/330166, l='world', x=432.79, y=78.00, z=-10.43] connected. Sending ping
+[04:08:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
+[04:08:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
+[04:15:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Timed out
+[04:15:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
+[18:58:47] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[18:58:47] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 80 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
+[18:58:47] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[18:58:47] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[18:58:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:58:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.165.157:63800] logged in with entity id 335918 at (436.159467878117, 78.0, -4.5332144907781124)
+[18:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
+[18:58:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/335918, l='world', x=436.16, y=78.00, z=-4.53] connected. Sending ping
+[18:58:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Milys17...
+[18:58:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Milys17
+[18:59:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
+[18:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
+[19:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[19:00:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:00:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:00:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:00:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[19:00:48] [Server thread/INFO] [FML]: Unloading dimension 0
