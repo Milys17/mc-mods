@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-04-15 02:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-04-09 03:41:53 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2020-04-09 03:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-04-15 03:34:50 +0000"
     },
     "done": true
   },
@@ -352,6 +364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2020-04-15 03:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2020-04-09 04:12:27 +0000"
@@ -421,6 +439,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2020-04-09 04:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-04-15 02:33:48 +0000"
     },
     "done": true
   },
@@ -546,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-04-15 02:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-04-09 04:21:32 +0000"
@@ -639,6 +669,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-09 21:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-04-15 02:33:48 +0000"
     },
     "done": true
   },
@@ -905,6 +941,12 @@
     },
     "done": true
   },
+  "wolfarmor:recipes/combat/chainmail_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2020-04-15 02:34:52 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/thiefs_lock_pick": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 04:03:00 +0000"
@@ -1067,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-15 02:53:32 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/gray_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-09 03:52:35 +0000"
@@ -1133,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2020-04-15 02:59:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 04:03:00 +0000"
@@ -1181,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-04-15 02:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-09 04:07:42 +0000"
@@ -1205,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-15 02:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-04-09 03:57:51 +0000"
@@ -1219,10 +1285,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2020-04-15 03:32:32 +0000",
       "deep_ocean": "2020-04-09 03:46:46 +0000",
       "beaches": "2020-04-09 03:39:59 +0000",
       "extreme_hills_with_trees": "2020-04-09 21:32:21 +0000",
+      "desert_hills": "2020-04-15 02:48:41 +0000",
       "plains": "2020-04-09 03:40:21 +0000",
+      "savanna": "2020-04-15 03:24:05 +0000",
       "ocean": "2020-04-09 03:47:32 +0000",
       "extreme_hills": "2020-04-09 04:03:30 +0000",
       "roofed_forest": "2020-04-09 03:41:22 +0000",
@@ -1262,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2020-04-15 02:34:52 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/purple_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-09 03:52:35 +0000"
@@ -1292,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-04-15 02:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-04-09 03:43:02 +0000"
@@ -1301,6 +1382,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2020-04-09 04:21:05 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2020-04-15 02:38:41 +0000"
     },
     "done": true
   },
@@ -1388,6 +1475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2020-04-15 03:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2020-04-09 03:55:42 +0000"
@@ -1469,6 +1562,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-09 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2020-04-15 02:59:18 +0000"
     },
     "done": true
   }

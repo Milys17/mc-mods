@@ -1,103 +1,171 @@
-[00:05:51] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5018f7d4)
-[00:05:54] [Server thread/WARN] [net.minecraft.entity.boss.dragon.phase.PhaseStrafePlayer]: Skipping player strafe phase because no player was found
-[00:06:54] [Server thread/INFO] [FML]: Unloading dimension 1
-[00:06:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:08:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:11:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:12:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:13:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:16:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:17:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:17:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:19:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:21:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:21:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:22:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:23:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:25:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:27:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 69f2935a-38fa-40dc-a5e7-27bf0bc43c05
-[00:35:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Disconnected
-[00:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
-[00:44:52] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[00:44:52] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[00:44:52] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[00:44:52] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[00:44:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:44:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:5320] logged in with entity id 268299 at (252.82829429471505, 63.0, -2.6525229684861547)
-[00:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
-[00:44:54] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/268299, l='world', x=252.83, y=63.00, z=-2.65] connected. Sending ping
-[00:44:54] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
-[00:44:54] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
-[00:54:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Disconnected
-[00:54:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
-[01:00:58] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[01:00:58] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[01:00:58] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[01:00:58] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[01:01:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:01:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:32510] logged in with entity id 276203 at (250.67564530916272, 71.0, -0.959242314216753)
-[01:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
-[01:01:00] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/276203, l='world', x=250.68, y=71.00, z=-0.96] connected. Sending ping
-[01:01:00] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
-[01:01:00] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
-[01:19:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Koutarou moved wrongly!
-[01:35:25] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
-[01:37:47] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
-[01:54:10] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
-[01:54:47] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
-[01:55:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5018f7d4)
-[01:55:21] [Server thread/INFO] [FML]: Unloading dimension -1
-[02:11:07] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5018f7d4)
-[02:11:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Timed out
-[02:11:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
-[02:11:36] [Server thread/INFO] [FML]: Unloading dimension 1
-[02:16:24] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[02:16:24] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[02:16:24] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[02:16:24] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[02:16:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:16:26] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5018f7d4)
-[02:16:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:40326] logged in with entity id 309929 at (100.5, 49.5, 0.5)
-[02:16:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
-[02:16:26] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/309929, l='world', x=100.50, y=49.50, z=0.50] connected. Sending ping
-[02:16:26] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
-[02:16:26] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
-[02:18:14] [Server thread/INFO] [FML]: Unloading dimension 1
-[02:39:56] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
-[02:40:18] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
-[02:45:30] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
-[02:49:24] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
-[02:57:26] [Server thread/INFO] [FTB Utilities]: Koutarou is now AFK
-[03:07:03] [Server thread/INFO] [FTB Utilities]: Koutarou is no longer AFK
-[03:09:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Disconnected
-[03:09:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
-[04:08:46] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[04:08:46] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 81 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[04:08:46] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[04:08:46] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[04:08:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:08:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Koutarou[/179.6.198.4:2190] logged in with entity id 330166 at (432.7929950439521, 78.0, -10.429608284270474)
-[04:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou joined the game
-[04:08:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Koutarou'/330166, l='world', x=432.79, y=78.00, z=-10.43] connected. Sending ping
-[04:08:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Koutarou...
-[04:08:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Koutarou
-[04:15:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Koutarou lost connection: Timed out
-[04:15:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Koutarou left the game
-[18:58:47] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[18:58:47] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 80 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[18:58:47] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[18:58:47] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[18:58:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:58:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.165.157:63800] logged in with entity id 335918 at (436.159467878117, 78.0, -4.5332144907781124)
-[18:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
-[18:58:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/335918, l='world', x=436.16, y=78.00, z=-4.53] connected. Sending ping
-[18:58:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Milys17...
-[18:58:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Milys17
-[18:59:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
-[18:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
-[19:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[19:00:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:00:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[19:00:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[19:00:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[19:00:48] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:07:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
+[00:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
+[00:18:22] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:18:22] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 80 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
+[00:18:22] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[00:18:22] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:18:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:18:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.165.157:50357] logged in with entity id 349146 at (467.15918961272706, 6.0, 52.00476401273236)
+[00:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
+[00:18:23] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/349146, l='world', x=467.16, y=6.00, z=52.00] connected. Sending ping
+[00:18:23] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Milys17...
+[00:18:23] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Milys17
+[00:18:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: entity.broom_entity.name moved wrongly!
+[00:18:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: entity.broom_entity.name moved wrongly!
+[00:18:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: entity.broom_entity.name moved wrongly!
+[00:18:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
+[00:18:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
+[02:20:47] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:20:47] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 80 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
+[02:20:47] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[02:20:47] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:20:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:20:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.165.157:55072] logged in with entity id 350089 at (442.02969657966497, 6.0, 65.05056708498861)
+[02:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
+[02:20:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/350089, l='world', x=442.03, y=6.00, z=65.05] connected. Sending ping
+[02:20:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Milys17...
+[02:20:48] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Milys17
+[02:24:54] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:24:54] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 80 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
+[02:24:54] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[02:24:54] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:24:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:24:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: thecdeq[/190.234.9.123:64950] logged in with entity id 353255 at (404.8241839494648, 82.0, 7.300000011920929)
+[02:24:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thecdeq joined the game
+[02:24:58] [Server thread/INFO] [Waila]: Player EntityPlayerMP['thecdeq'/353255, l='world', x=404.82, y=82.00, z=7.30] connected. Sending ping
+[02:24:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for thecdeq...
+[02:24:58] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to thecdeq
+[02:26:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> abajo
+[02:29:10] [Server thread/INFO] [mca]: Villager death: Jude. Caused by: inWall. UUID: f04cf35c-cd44-45aa-8275-c17e7742397e
+[02:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> ven
+[02:29:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> apenas pondre a eclosionar mi dragonsito
+[02:30:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
+[02:30:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> yo se donde hay
+[02:30:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> chocobos
+[02:31:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> aca
+[02:32:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
+[02:32:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> te muestro
+[02:32:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> seh
+[02:32:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thecdeq> jajajaja
+[02:32:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> toma carne de zombi
+[02:33:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> ponla en el infuser
+[02:36:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> se corto
+[02:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> fue mi dragonsito
+[02:36:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> creo
+[02:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> no, algo exploto
+[02:39:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> rustica
+[02:41:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> no
+[02:41:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> no esta
+[02:41:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> una que?
+[02:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> una especie de candelabro?
+[02:43:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> no me suena
+[02:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [Suit Up]
+[02:44:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> me ayudo a abrir xd
+[02:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [Dragon Growth Hormone]
+[02:52:11] [Server thread/INFO] [mca]: Villager death: Reginald. Caused by: Zombie. UUID: 56f40ba5-c517-418f-aa25-6303fcd79a87
+[02:52:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> se corta mucho
+[02:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
+[02:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> toma
+[02:55:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> te di comida, y el libro para ver sus detalles
+[02:55:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si, es para que te siga
+[02:55:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> creo que con eso lo tameas
+[02:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> no, lo estoy usando
+[02:56:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> estoy haciendo mochila
+[02:56:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> necesitere mas
+[02:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> con cuero, pero para hacer el tier 3 necesito hilo
+[03:00:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
+[03:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> para eso te la di
+[03:00:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> la comida es solo para tamearlo
+[03:01:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si, he visto pero no los he tomado
+[03:02:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> te ayudo a buscarlos
+[03:03:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:03:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:03:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:03:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:03:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:03:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:03:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:06:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> quieres una escoba?
+[03:06:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> para volar
+[03:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> ok, vamos a explorar entonces
+[03:08:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> no, pero deberiamos
+[03:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> dormamos promero
+[03:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> primero*
+[03:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> no?
+[03:09:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> no :/
+[03:09:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> pero koru tiene lana
+[03:09:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> tengo tijeras
+[03:10:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> ya tengo lana
+[03:11:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
+[03:12:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si te sobra lana
+[03:13:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> aca la conviertes en hilo
+[03:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thecdeq> Zzzzz
+[03:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
+[03:14:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> espera
+[03:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> hare una mochila
+[03:15:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> justo la estoy haciendo
+[03:15:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> necesito lana
+[03:15:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> tengo con que hacerlo, pero necesito lana
+[03:15:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> o hilo
+[03:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> solo es como un cofre
+[03:17:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> portatil
+[03:17:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> da clic derecho
+[03:18:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> este es mas barato
+[03:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> te lo di
+[03:18:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
+[03:18:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> es mas barato y puedes craftear en aire
+[03:19:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> traete el chocobo
+[03:19:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chocobo moved wrongly!
+[03:19:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> te hare una escoba entonces
+[03:20:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> tienes mas hilo?
+[03:21:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> o lana?
+[03:21:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> necesitare 5 de hilo
+[03:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> cual dragon?
+[03:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> era un naga
+[03:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> yo se donde hay cosas del chocobo
+[03:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> desde la casa hacia el oeste
+[03:30:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> ve en direccion hacia la casa
+[03:31:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> tardara en pasar el lago
+[03:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> ya investigue
+[03:31:18] [Server thread/INFO] [mca]: Villager death: Madison. Caused by: inWall. UUID: fed7411e-fcc9-446f-8384-642a43fabb45
+[03:33:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> ni idea
+[03:33:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> serpiente marina
+[03:34:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [Sea of Monsters]
+[03:35:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> es zona radioactiva
+[03:35:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> venenosa
+[03:35:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> tienes tapones?
+[03:36:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
+[03:36:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> hay sirenas aqui
+[03:36:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> 2 botones
+[03:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> no, pero oeste desde la casa
+[03:37:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> vamos para la casa
+[03:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> vamos de regreso
+[03:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> aca
+[03:41:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> espera, me perdi
+[03:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> dare una vuelta para ver
+[03:41:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> sigueme
+[03:43:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> ya lo tomaste?
+[03:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> era todo xd
+[03:46:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> pero creo que por aca
+[03:46:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> oye, me tengo que retirar
+[03:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> mañana?
+[03:47:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> ire para la casa
+[03:48:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <thecdeq> duerme
+[03:49:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> donde estas:
+[03:49:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> _
+[03:49:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> toma
+[03:50:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> atras
+[03:50:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> apunta hacia arriba
+[03:50:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> y hacia adelante
+[03:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> si
+[03:52:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Milys17> bn, bye
+[03:52:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
+[03:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
+[04:21:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: thecdeq lost connection: Disconnected
+[04:21:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: thecdeq left the game
+[18:19:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[18:19:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:19:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:19:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:19:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[18:19:55] [Server thread/INFO] [FML]: Unloading dimension 0

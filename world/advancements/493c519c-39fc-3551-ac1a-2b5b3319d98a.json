@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b1_blue_bell_dye_borage": {
+    "criteria": {
+      "has_the_recipe": "2020-04-14 21:28:51 +0000"
+    },
+    "done": true
+  },
   "mysticalworld:root": {
     "criteria": {
       "auto": "2020-04-09 03:38:04 +0000"
@@ -299,6 +305,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-04-14 21:06:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "fire": "2020-04-14 22:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 03:56:55 +0000"
@@ -425,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2020-04-15 03:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2020-04-09 04:12:36 +0000",
@@ -530,6 +554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-04-15 03:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-09 03:59:53 +0000"
@@ -551,9 +581,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2020-04-09 19:48:59 +0000",
+      "slime": "2020-04-14 22:00:53 +0000",
       "skeleton": "2020-04-09 20:19:29 +0000",
       "husk": "2020-04-10 02:18:11 +0000",
       "zombie": "2020-04-09 04:04:34 +0000",
+      "silverfish": "2020-04-14 21:29:29 +0000",
       "witch": "2020-04-09 21:09:41 +0000",
       "spider": "2020-04-09 19:37:54 +0000",
       "creeper": "2020-04-09 21:36:45 +0000",
@@ -600,6 +632,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-04-09 03:40:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "fire": "2020-04-14 22:59:39 +0000"
     },
     "done": true
   },
@@ -723,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-15 03:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-04-09 20:07:54 +0000"
@@ -813,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-15 03:10:25 +0000"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/b0b_light_blue_dye_lobelia": {
     "criteria": {
       "has_the_recipe": "2020-04-10 03:19:20 +0000"
@@ -855,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-04-15 03:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-04-09 19:38:06 +0000"
@@ -870,6 +926,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 03:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-04-14 21:21:42 +0000"
     },
     "done": true
   },
@@ -918,6 +980,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-04-10 01:40:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2020-04-15 03:34:09 +0000"
     },
     "done": true
   },
@@ -984,6 +1052,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-04-10 02:08:22 +0000",
+      "swampland": "2020-04-14 23:27:29 +0000",
+      "birch_forest": "2020-04-14 23:26:40 +0000",
       "deep_ocean": "2020-04-10 00:01:26 +0000",
       "beaches": "2020-04-09 03:38:29 +0000",
       "extreme_hills_with_trees": "2020-04-10 02:07:00 +0000",
@@ -991,9 +1061,13 @@
       "forest_hills": "2020-04-10 05:54:59 +0000",
       "plains": "2020-04-09 03:38:04 +0000",
       "savanna": "2020-04-10 19:46:17 +0000",
+      "taiga": "2020-04-14 21:22:29 +0000",
+      "taiga_hills": "2020-04-14 22:04:42 +0000",
+      "birch_forest_hills": "2020-04-14 23:26:34 +0000",
       "ocean": "2020-04-09 22:07:18 +0000",
       "extreme_hills": "2020-04-09 04:08:32 +0000",
       "roofed_forest": "2020-04-09 03:38:48 +0000",
+      "cold_beach": "2020-04-14 21:32:21 +0000",
       "river": "2020-04-09 22:42:57 +0000",
       "desert": "2020-04-10 02:12:28 +0000",
       "stone_beach": "2020-04-09 19:38:05 +0000"
@@ -1006,9 +1080,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2020-04-14 23:27:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-04-09 03:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-04-15 03:10:25 +0000"
     },
     "done": true
   },
@@ -1132,6 +1218,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b1b_blue_bell_dye_button": {
+    "criteria": {
+      "has_blue_bell_button": "2020-04-14 21:28:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2020-04-10 01:40:05 +0000"
@@ -1171,6 +1263,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2020-04-13 20:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2020-04-14 22:01:02 +0000"
     },
     "done": true
   },
@@ -1297,6 +1395,12 @@
   "ferdinandsflowers:recipes/misc/b0_light_blue_dye_forget": {
     "criteria": {
       "has_light_blue_forget": "2020-04-10 03:19:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2020-04-15 02:50:40 +0000"
     },
     "done": true
   },
@@ -1563,6 +1667,12 @@
   "roots:grove_stone": {
     "criteria": {
       "book": "2020-04-10 21:34:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "gold": "2020-04-15 02:44:10 +0000"
     },
     "done": true
   },
@@ -2004,6 +2114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-04-15 03:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-04-09 03:55:15 +0000"
@@ -2097,6 +2213,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-04-09 03:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2020-04-14 22:01:02 +0000"
     },
     "done": true
   },

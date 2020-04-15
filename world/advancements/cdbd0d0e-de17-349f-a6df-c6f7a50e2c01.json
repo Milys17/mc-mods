@@ -1076,6 +1076,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2020-04-14 23:42:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2020-04-11 03:00:01 +0000"
@@ -1152,6 +1158,7 @@
     "criteria": {
       "forest": "2020-04-09 05:28:17 +0000",
       "birch_forest": "2020-04-10 23:30:28 +0000",
+      "swampland": "2020-04-14 23:52:59 +0000",
       "deep_ocean": "2020-04-09 04:23:57 +0000",
       "beaches": "2020-04-09 03:46:09 +0000",
       "extreme_hills_with_trees": "2020-04-09 05:25:42 +0000",
@@ -1512,6 +1519,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-09 22:33:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2020-04-14 22:59:22 +0000"
     },
     "done": true
   },
