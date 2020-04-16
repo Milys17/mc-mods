@@ -627,3 +627,9 @@
 2020-04-14 23:56:50,498 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 296 73 -1192
 2020-04-14 23:56:57,315 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! RARE chest at coords: 376 63 -1224
 2020-04-14 23:57:11,609 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:376 | CHEATER! COMMON chest at coords: 360 71 -1032
+2020-04-15 18:22:18,730 [Server thread] ERROR GottschCore | LootTableMaster.java:249 | Unable to locate resource /loot_tables/mocreatures/treasure/
+2020-04-15 18:22:18,736 [Server thread] ERROR GottschCore | LootTableMaster.java:249 | Unable to locate resource /loot_tables/mocreatures/potions/
+2020-04-15 18:22:18,738 [Server thread] ERROR GottschCore | LootTableMaster.java:249 | Unable to locate resource /loot_tables/mocreatures/chests/special/
+2020-04-15 18:22:18,762 [Server thread] ERROR GottschCore | AbstractResourceManager.java:173 | Unable to locate resource /structures/treasure2/float/
+2020-04-15 18:22:19,293 [Server thread] INFO GottschCore | VersionChecker.java:110 | [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/master/GottschCore1.12.2/update.json
+2020-04-15 18:22:20,381 [Server thread] INFO GottschCore | VersionChecker.java:110 | [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/Treasure2-1.12.2/update.json

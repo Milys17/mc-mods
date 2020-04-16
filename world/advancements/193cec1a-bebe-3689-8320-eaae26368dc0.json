@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2020-04-15 21:47:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2020-04-09 03:39:59 +0000"
@@ -299,6 +305,12 @@
     },
     "done": true
   },
+  "roots:staff": {
+    "criteria": {
+      "book": "2020-04-15 21:33:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-04-09 22:41:45 +0000"
@@ -337,6 +349,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-04-09 03:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-04-15 23:24:51 +0000"
     },
     "done": true
   },
@@ -424,6 +442,12 @@
     },
     "done": true
   },
+  "treasure2:recipes/ruby_key": {
+    "criteria": {
+      "has_gem": "2020-04-15 22:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-09 21:42:26 +0000"
@@ -478,6 +502,12 @@
     },
     "done": true
   },
+  "fossil:fossil/fossil_seed": {
+    "criteria": {
+      "fossil_fern_seed": "2020-04-15 22:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-09 21:42:26 +0000"
@@ -490,9 +520,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2020-04-15 21:37:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-04-09 04:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2020-04-16 00:21:05 +0000"
     },
     "done": true
   },
@@ -893,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-04-16 00:21:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2020-04-09 04:05:57 +0000"
@@ -902,6 +950,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2020-04-09 04:21:32 +0000"
+    },
+    "done": true
+  },
+  "roots:wildroot": {
+    "criteria": {
+      "book": "2020-04-15 21:33:38 +0000"
     },
     "done": true
   },
@@ -1290,6 +1344,7 @@
       "beaches": "2020-04-09 03:39:59 +0000",
       "extreme_hills_with_trees": "2020-04-09 21:32:21 +0000",
       "desert_hills": "2020-04-15 02:48:41 +0000",
+      "forest_hills": "2020-04-15 21:43:23 +0000",
       "plains": "2020-04-09 03:40:21 +0000",
       "savanna": "2020-04-15 03:24:05 +0000",
       "ocean": "2020-04-09 03:47:32 +0000",
@@ -1451,6 +1506,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_chicken": "2020-04-15 21:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2020-04-09 04:33:48 +0000"
@@ -1538,6 +1599,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2020-04-09 04:21:32 +0000"
+    },
+    "done": true
+  },
+  "roots:guide": {
+    "criteria": {
+      "book": "2020-04-15 21:33:38 +0000"
     },
     "done": true
   },
