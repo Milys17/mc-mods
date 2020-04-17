@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-04-16 21:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-09 03:59:53 +0000"
@@ -314,6 +320,12 @@
   "ferdinandsflowers:recipes/misc/8_yellow_green_dye_parodia": {
     "criteria": {
       "has_yellow_green_parodia": "2020-04-11 04:52:32 +0000"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/misc/b12_dark_magenta_dye_mallow": {
+    "criteria": {
+      "has_dark_magenta_mallow": "2020-04-16 21:15:16 +0000"
     },
     "done": true
   },
@@ -581,6 +593,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2020-04-09 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/misc/12b_blue_green_dye_lily_valley": {
+    "criteria": {
+      "has_the_recipe": "2020-04-16 21:15:15 +0000"
     },
     "done": true
   },
@@ -1079,6 +1097,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b12b_dark_magenta_dye_petticoat": {
+    "criteria": {
+      "has_the_recipe": "2020-04-16 21:15:16 +0000"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/b8_light_lavender_dye_crocus": {
     "criteria": {
       "has_the_recipe": "2020-04-16 00:44:35 +0000"
@@ -1254,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-04-16 21:14:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-10 00:27:18 +0000"
@@ -1308,6 +1338,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b7b_lavender_dye_indigo": {
+    "criteria": {
+      "has_the_recipe": "2020-04-16 23:37:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2020-04-10 01:10:09 +0000"
@@ -1329,6 +1365,12 @@
   "ferdinandsflowers:recipes/misc/b1b_blue_bell_dye_button": {
     "criteria": {
       "has_blue_bell_button": "2020-04-14 21:28:51 +0000"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/misc/12_blue_green_dye_manzanita": {
+    "criteria": {
+      "has_blue_green_manzanita": "2020-04-16 21:15:15 +0000"
     },
     "done": true
   },
@@ -1796,6 +1838,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2020-04-16 20:52:54 +0000",
+      "bred_sheep": "2020-04-16 20:52:28 +0000",
+      "bred_cow": "2020-04-16 20:54:38 +0000"
+    },
+    "done": false
+  },
   "roots:grove_stone": {
     "criteria": {
       "book": "2020-04-10 21:34:40 +0000"
@@ -2111,6 +2161,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-04-09 04:10:01 +0000"
+    },
+    "done": true
+  },
+  "ferdinandsflowers:recipes/misc/b7_lavender_dye_larkspur": {
+    "criteria": {
+      "has_lavender_larkspur": "2020-04-16 23:37:33 +0000"
     },
     "done": true
   },
@@ -2567,6 +2623,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-04-09 03:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2020-04-16 20:52:28 +0000"
     },
     "done": true
   },
