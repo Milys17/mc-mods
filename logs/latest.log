@@ -1,33 +1,31 @@
-[00:07:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
-[00:07:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
-[00:07:47] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[00:07:47] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 80 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[00:07:47] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[00:07:47] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[00:07:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:07:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.165.157:63910] logged in with entity id 201823 at (436.22638337656724, 78.0, -1.9934501011659178)
-[00:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
-[00:07:49] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/201823, l='world', x=436.23, y=78.00, z=-1.99] connected. Sending ping
-[00:07:49] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Milys17...
-[00:07:49] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Milys17
-[00:11:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
-[00:11:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
-[00:11:58] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[00:11:58] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 80 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
-[00:11:58] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[00:11:58] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[00:12:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:12:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.165.157:63928] logged in with entity id 206487 at (404.25347015104165, 82.0, 6.099439715550473)
-[00:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
-[00:12:00] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/206487, l='world', x=404.25, y=82.00, z=6.10] connected. Sending ping
-[00:12:00] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Milys17...
-[00:12:00] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Milys17
-[00:13:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: entity.broom_entity.name moved wrongly!
-[00:17:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
-[00:17:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
-[19:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[19:04:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:04:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[19:04:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[19:04:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[19:04:52] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:10:02] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[03:10:02] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 80 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,astralsorcery@1.10.22,zawa@1.12.2-2.0.2,mca@6.1.0,creativecoredummy@1.0.0,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,nei@2.4.3,dynamiclights@1.4.9,neat@1.4-17,ageofweapons@0.13.5,glassential@1.0.0,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,evilcraft@0.10.78,bookshelf@2.3.585,llibrary@1.7.19,roots@1.12.2-3.0.26,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,iceandfire@1.8.4,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,emoticons@0.4.3,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,malisisdoors@1.12.2-7.3.0,ftbutilities@5.4.0.124,chococraft@0.9.1.52,chesttransporter@2.8.8,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,baubles@1.5.2,roost@2.0.10,cxlibrary@1.6.1,creativecore@1.10.0,msmlegacy@@VERSION@,treasure2@1.10.0,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,evilcraftcompat@1.0.0,mocreatures@12.0.5,patchouli@1.0-20,spartanshields@1.5.4,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,opframe@1.4.0,fastfurnace@1.3.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0,movillages@1.5.4
+[03:10:02] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[03:10:02] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:10:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:10:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.165.157:50768] logged in with entity id 177332 at (433.3023942808393, 78.0, -4.69503450816139)
+[03:10:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
+[03:10:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity minecraft:item but it was marked as removed already
+[03:10:03] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/177332, l='world', x=433.30, y=78.00, z=-4.70] connected. Sending ping
+[03:10:03] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Milys17...
+[03:10:03] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Milys17
+[03:24:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:angelfish that already exists with UUID 10c1f0bb-8e31-4b7a-a24b-b14a422bd5cb
+[03:24:48] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@21918ebc)
+[03:24:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -440.5865312585683,38.5,-35.97157861963939
+[03:25:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [A Terrible Fortress]
+[03:30:07] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:30:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:snake that already exists with UUID fd318b7c-666f-4327-87e1-9dff06eb1580
+[03:30:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: entity.broom_entity.name (vehicle of Milys17) moved too quickly! 6.096426724364051,-0.8757520548091691,9.31515926758459
+[03:30:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: entity.broom_entity.name (vehicle of Milys17) moved too quickly! 6.049867840002321,-0.8670580880932732,9.24900137471161
+[03:30:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: entity.broom_entity.name (vehicle of Milys17) moved too quickly! 5.551394348507529,-0.7886651996074647,8.491033850915073
+[03:31:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:angelfish that already exists with UUID 10c1f0bb-8e31-4b7a-a24b-b14a422bd5cb
+[03:33:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [Draconic Evolution]
+[04:05:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:angelfish that already exists with UUID 10c1f0bb-8e31-4b7a-a24b-b14a422bd5cb
+[04:08:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
+[04:08:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
+[07:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[07:21:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[07:21:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[07:21:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[07:21:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[07:21:09] [Server thread/INFO] [FML]: Unloading dimension 0
