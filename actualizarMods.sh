@@ -1,2 +1,2 @@
-rsync -avu --delete '/home/minecraft/mods' '/var/www/html/'
+rsync -avu '/var/www/html/mods' '/home/minecraft/mods'
 exit 0

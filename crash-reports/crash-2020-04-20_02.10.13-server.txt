@@ -1,0 +1,150 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  CreativePatchingLoader (CreativeCore_v1.10.10_mc1.12.2.jar)
+  MixinLoaderForge (Valkyrien+Warfare+0.9_prerelease_5+[Optimization+Update].jar)
+  OpenModsCorePlugin (OpenModsLib-1.12.2-0.12.2.jar)
+  MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+  CXLibraryCore (cxlibrary-1.12.1-1.6.1.jar)
+  CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  TheBetweenlandsLoadingPlugin (TheBetweenlands-3.5.10-core.jar)
+  McLib core mod (mclib-1.0.4-1.12.2.jar)
+Contact their authors BEFORE contacting forge
+
+// Surprise! Haha. Well, this is awkward.
+
+Time: 4/20/20 2:10 AM
+Description: Exception in server tick loop
+
+Missing Mods:
+	unknown : need [1.2.0,2.0.0): have missing
+
+net.minecraftforge.fml.common.MissingModsException: Mod thermalfoundation (Thermal Foundation) requires [cofhworld@[1.2.0,2.0.0)]
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:266)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.9.0-12-amd64
+	Java Version: 1.8.0_242, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3836893184 bytes (3659 MB) / 4961861632 bytes (4732 MB) up to 5726797824 bytes (5461 MB)
+	JVM Flags: 2 total; -Xms4G -Xmx6G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 77 mods loaded, 76 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                  | Version               | Source                                                       | Signature |
+	|:----- |:------------------- |:--------------------- |:------------------------------------------------------------ |:--------- |
+	| L     | minecraft           | 1.12.2                | minecraft.jar                                                | None      |
+	| L     | mcp                 | 9.42                  | minecraft.jar                                                | None      |
+	| L     | FML                 | 8.0.99.99             | server.jar                                                   | None      |
+	| L     | forge               | 14.23.5.2847          | server.jar                                                   | None      |
+	| L     | creativecoredummy   | 1.0.0                 | minecraft.jar                                                | None      |
+	| UD    | mclib_core          | 1.0.4                 | minecraft.jar                                                | None      |
+	| L     | openmodscore        | 0.12.2                | minecraft.jar                                                | None      |
+	| L     | securitycraft       | v1.8.14               | [1.12.2]+SecurityCraft+v1.8.14.jar                           | None      |
+	| L     | damageindicatorsmod | 1.0                   | [1.12.2]DamageIndicatorsMod-3.5.1.jar                        | None      |
+	| L     | abyssalcraft        | 1.9.18                | AbyssalCraft-1.12.2-1.9.18.jar                               | None      |
+	| L     | backpack            | 3.0.2                 | backpack-3.0.2-1.12.2.jar                                    | None      |
+	| L     | baubles             | 1.5.2                 | Baubles-1.12-1.5.2 (1).jar                                   | None      |
+	| L     | bloodmagic          | 1.12.2-2.4.3-105      | BloodMagic-1.12.2-2.4.3-105 (1).jar                          | None      |
+	| L     | bookshelf           | 2.3.585               | Bookshelf-1.12.2-2.3.585.jar                                 | None      |
+	| L     | bookworm            | 1.12.2-2.5.1          | bookworm-1.12.2-2.5.1.jar                                    | None      |
+	| L     | bullseye            | 3.0.7                 | Bullseye-1.12.2-3.0.7.jar                                    | None      |
+	| L     | chesttransporter    | 2.8.8                 | ChestTransporter-1.12.2-2.8.8.jar                            | None      |
+	| L     | chisel              | MC1.12.2-1.0.2.45     | Chisel-MC1.12.2-1.0.2.45.jar                                 | None      |
+	| L     | codechickenlib      | 3.2.3.358             | CodeChickenLib-1.12.2-3.2.3.358-universal.jar                | None      |
+	| L     | cofhcore            | 4.6.6                 | CoFHCore-1.12.2-4.6.6.1-universal.jar                        | None      |
+	| L     | creativecore        | 1.10.0                | CreativeCore_v1.10.10_mc1.12.2.jar                           | None      |
+	| L     | customspawner       | 3.11.4                | CustomMobSpawner-3.11.5 (1).jar                              | None      |
+	| L     | cxlibrary           | 1.6.1                 | cxlibrary-1.12.1-1.6.1.jar                                   | None      |
+	| L     | cyclopscore         | 1.6.2                 | CyclopsCore-1.12.2-1.6.2.jar                                 | None      |
+	| L     | props               | 2.6.3                 | Decocraft-2.6.3_1.12.2.jar                                   | None      |
+	| L     | mocreatures         | 12.0.5                | DrZharksMoCreaturesMod-12.0.5 (1).jar                        | None      |
+	| L     | dynamictrees        | 1.12.2-0.9.7          | DynamicTrees-1.12.2-0.9.7.jar                                | None      |
+	| L     | ebwizardry          | 4.2.11                | ElectroblobsWizardry-4.2.11-MC1.12.2.jar                     | None      |
+	| L     | fastfurnace         | 1.3.1                 | FastFurnace-1.12.2-1.3.1.jar                                 | None      |
+	| L     | ferdinandsflowers   | 1.10.4.1              | Ferdinand's+Flowers-1.12.x-1.10.4.1.jar                      | None      |
+	| L     | fossil              | 8.0.4                 | fossilsarcheology-8.0.4.jar                                  | None      |
+	| L     | ftblib              | 5.4.7.0               | FTBLib-5.4.7.0.jar                                           | None      |
+	| L     | ftbutilities        | 5.4.0.124             | FTBUtilities-5.4.0.124.jar                                   | None      |
+	| L     | glassential         | 1.0.0                 | glassential-1.12.2-1.0.0.jar                                 | None      |
+	| L     | gottschcore         | 1.12.1                | GottschCore-mc1.12.2-f14.23.5.2768-v1.12.1.jar               | None      |
+	| L     | gravestone          | 1.10.1                | gravestone-1.10.1.jar                                        | None      |
+	| L     | grimoireofgaia      | 1.7.2                 | GrimoireOfGaia3-1.12.2-1.7.2.jar                             | None      |
+	| L     | guideapi            | 1.12-2.1.8-63         | Guide-API-1.12-2.1.8-63 (1).jar                              | None      |
+	| L     | waila               | 1.8.26                | Hwyla-1.8.26-B41_1.12.2.jar                                  | None      |
+	| L     | ichunutil           | 7.2.2                 | iChunUtil-1.12.2-7.2.2.jar                                   | None      |
+	| L     | jei                 | 4.15.0.293            | jei_1.12.2-4.15.0.293.jar                                    | None      |
+	| L     | journeymap          | 1.12.2-5.7.1          | journeymap-1.12.2-5.7.1.jar                                  | None      |
+	| L     | malisiscore         | 1.12.2-6.5.1-SNAPSHOT | malisiscore-1.12.2-6.5.1.jar                                 | None      |
+	| L     | malisisdoors        | 1.12.2-7.3.0          | malisisdoors-1.12.2-7.3.0.jar                                | None      |
+	| L     | mantle              | 1.12-1.3.3.55         | Mantle-1.12-1.3.3.55.jar                                     | None      |
+	| L     | mca                 | 6.1.0                 | MCA-1.12.2-6.1.0-universal.jar                               | None      |
+	| L     | mclib               | 1.0.4                 | mclib-1.0.4-1.12.2.jar                                       | None      |
+	| L     | morefurnaces        | 1.10.5                | MoreFurnaces-1.12.2-1.10.6.jar                               | None      |
+	| L     | msmlegacy           | @VERSION@             | MoreSwordsLegacy-1.12.2-1.0.7.jar                            | None      |
+	| L     | mowziesmobs         | 1.5.4                 | mowziesmobs-1.5.4.jar                                        | None      |
+	| L     | mysticallib         | 1.12.2-1.7.0          | mysticallib-1.12.2-1.7.0.jar                                 | None      |
+	| L     | mysticalworld       | 1.12.2-1.8.3          | mysticalworld-1.12.2-1.8.3.jar                               | None      |
+	| L     | naturalbabyanimals  | 1.2.2                 | naturalbabyanimals-1.2.2-mc1.12.x.jar                        | None      |
+	| L     | naturesaura         | 18.1                  | NaturesAura-18.1.jar                                         | None      |
+	| L     | recipehandler       | 0.13                  | NoMoreRecipeConflict-0.13(1.12.2).jar                        | None      |
+	| L     | nei                 | 2.4.3                 | NotEnoughItems-1.12.2-2.4.3.245-universal.jar                | None      |
+	| L     | opframe             | 1.4.0                 | OnlinePicFrame_v1.4.37_mc1.12.2.jar                          | None      |
+	| L     | openblocks          | 1.8.1                 | OpenBlocks-1.12.2-1.8.1.jar                                  | None      |
+	| L     | openmods            | 0.12.2                | OpenModsLib-1.12.2-0.12.2.jar                                | None      |
+	| L     | harvestcraft        | 1.12.2zb              | Pam's+HarvestCraft+1.12.2zg.jar                              | None      |
+	| L     | patchouli           | 1.0-20                | Patchouli-1.0-20.jar                                         | None      |
+	| L     | placebo             | 1.6.0                 | Placebo-1.12.2-1.6.0.jar                                     | None      |
+	| L     | playerrevive        | 1.0                   | PlayerRevive_v1.2.32_mc1.12.2.jar                            | None      |
+	| L     | redstoneflux        | 2.1.1                 | RedstoneFlux-1.12-2.1.1.1-universal.jar                      | None      |
+	| L     | roost               | 2.0.10                | roost-1.12.2-2.0.10.jar                                      | None      |
+	| L     | rustic              | 1.1.2                 | rustic-1.1.2.jar                                             | None      |
+	| L     | simpledivegear      | 1.1.1                 | SimpleDivingGear-1.1.1+mc+1.12.2.jar                         | None      |
+	| L     | spartanshields      | 1.5.4                 | SpartanShields-1.12.2-1.5.4.jar                              | None      |
+	| L     | tconstruct          | 1.12.2-2.13.0.183     | TConstruct-1.12.2-2.13.0.183.jar                             | None      |
+	| L     | thermalexpansion    | 5.5.7                 | ThermalExpansion-1.12.2-5.5.7.1-universal.jar                | None      |
+	| L     | thermalfoundation   | 2.6.7                 | ThermalFoundation-1.12.2-2.6.7.1-universal.jar               | None      |
+	| L     | twilightforest      | 3.10.1013             | twilightforest-1.12.2-3.10.1013-universal.jar                | None      |
+	| L     | valkyrienwarfare    | 0.9_prerelease_5      | Valkyrien+Warfare+0.9_prerelease_5+[Optimization+Update].jar | None      |
+	| L     | warpbook            | @VERSION@             | Warpbook-1.12.2-3.2.0.jar                                    | None      |
+	| L     | wolfarmor           | 2.2.3.6               | wolfarmor-1.12.2-2.2.3.1798-universal.jar                    | None      |
+	| L     | llibrary            | 1.7.19                | llibrary-1.7.19-1.12.2.jar                                   | None      |
+	| L     | thebetweenlands     | 3.5.10                | TheBetweenlands-3.5.10-universal.jar                         | None      |
+
+	Loaded coremods (and transformers): 
+llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+CreativePatchingLoader (CreativeCore_v1.10.10_mc1.12.2.jar)
+  
+MixinLoaderForge (Valkyrien+Warfare+0.9_prerelease_5+[Optimization+Update].jar)
+  
+OpenModsCorePlugin (OpenModsLib-1.12.2-0.12.2.jar)
+  openmods.core.OpenModsClassTransformer
+MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+  
+CXLibraryCore (cxlibrary-1.12.1-1.6.1.jar)
+  cubex2.cxlibrary.CoreModTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+TheBetweenlandsLoadingPlugin (TheBetweenlands-3.5.10-core.jar)
+  thebetweenlands.core.TheBetweenlandsClassTransformer
+McLib core mod (mclib-1.0.4-1.12.2.jar)
+  mchorse.mclib.core.McLibCMClassTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
