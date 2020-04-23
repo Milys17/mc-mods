@@ -1020,7 +1020,8 @@
       "skeleton": "2020-04-20 15:49:55 +0000",
       "husk": "2020-04-20 05:33:06 +0000",
       "zombie": "2020-04-20 04:38:07 +0000",
-      "silverfish": "2020-04-21 23:39:03 +0000"
+      "silverfish": "2020-04-21 23:39:03 +0000",
+      "creeper": "2020-04-23 02:41:26 +0000"
     },
     "done": false
   },
@@ -1984,6 +1985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-04-23 02:18:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2020-04-20 03:58:43 +0000"
@@ -2119,6 +2126,12 @@
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2020-04-20 03:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2020-04-23 02:18:18 +0000"
     },
     "done": true
   },

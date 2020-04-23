@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2020-04-22 21:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-04-20 04:28:57 +0000"
@@ -233,6 +239,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b0_light_blue_dye_forget": {
+    "criteria": {
+      "has_light_blue_forget": "2020-04-22 18:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-04-20 03:19:33 +0000"
@@ -248,6 +260,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-21 06:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
     },
     "done": true
   },
@@ -305,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-04-20 21:47:40 +0000"
@@ -317,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-04-22 21:38:27 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/dino_egg": {
     "criteria": {
       "dna": "2020-04-22 01:08:18 +0000"
@@ -326,6 +356,12 @@
   "bullseye:recipes/combat/fire_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-04-23 03:21:11 +0000"
     },
     "done": true
   },
@@ -440,6 +476,12 @@
     },
     "done": true
   },
+  "thebetweenlands:adventurer/root": {
+    "criteria": {
+      "talisman": "2020-04-22 19:34:39 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/ice_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:38:44 +0000"
@@ -506,9 +548,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2020-04-22 21:38:27 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/compat/tconstruct": {
     "criteria": {
       "book": "2020-04-20 03:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-04-22 21:55:17 +0000"
     },
     "done": true
   },
@@ -566,6 +620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2020-04-23 03:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-21 06:56:41 +0000"
@@ -589,6 +649,12 @@
       "has_bed": "2020-04-20 04:44:46 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2020-04-23 04:27:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -614,15 +680,39 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_trade": {
+    "criteria": {
+      "criteria_0": "2020-04-23 18:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-04-20 04:28:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2020-04-22 17:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2020-04-23 05:56:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2020-04-20 21:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
     },
     "done": true
   },
@@ -644,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-04-22 22:35:05 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/training_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:38:44 +0000"
@@ -659,6 +755,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-21 06:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
     },
     "done": true
   },
@@ -752,6 +854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-04-22 21:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2020-04-20 03:16:54 +0000"
@@ -791,6 +899,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-20 03:37:39 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2020-04-23 05:58:35 +0000"
     },
     "done": true
   },
@@ -854,6 +968,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/bomb_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:38:44 +0000"
@@ -888,6 +1014,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2020-04-22 00:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
     },
     "done": true
   },
@@ -969,6 +1101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2020-04-23 17:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2020-04-21 05:53:48 +0000"
@@ -981,9 +1119,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-04-23 05:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-04-20 03:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
     },
     "done": true
   },
@@ -1029,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-04-22 17:38:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2020-04-20 15:05:56 +0000"
@@ -1050,6 +1206,12 @@
   "abyssalcraft:root": {
     "criteria": {
       "necronomicon": "2020-04-21 19:43:28 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/analyzer": {
+    "criteria": {
+      "iron_pickaxe": "2020-04-22 23:00:07 +0000"
     },
     "done": true
   },
@@ -1143,6 +1305,19 @@
     },
     "done": true
   },
+  "ebwizardry:all_spells": {
+    "criteria": {
+      "snowball": "2020-04-23 18:44:26 +0000",
+      "magic_missile": "2020-04-23 06:53:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/chainmail_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2020-04-20 21:25:59 +0000"
@@ -1158,6 +1333,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2020-04-21 06:56:41 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "healing": "2020-04-23 17:58:13 +0000"
     },
     "done": true
   },
@@ -1185,6 +1366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-04-22 21:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2020-04-20 21:30:06 +0000"
@@ -1200,6 +1387,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-21 06:56:41 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:advanced": {
+    "criteria": {
+      "sorcery": "2020-04-23 18:52:11 +0000"
     },
     "done": true
   },
@@ -1323,6 +1516,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b0b_light_blue_dye_lobelia": {
+    "criteria": {
+      "has_the_recipe": "2020-04-22 18:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2020-04-21 20:55:10 +0000"
@@ -1398,6 +1597,12 @@
   "ebwizardry:root": {
     "criteria": {
       "criteria_0": "2020-04-21 06:18:18 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/dna": {
+    "criteria": {
+      "dna": "2020-04-22 23:02:52 +0000"
     },
     "done": true
   },
@@ -1557,6 +1762,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b0c_light_blue_dye_parasol": {
+    "criteria": {
+      "has_the_recipe": "2020-04-22 18:12:01 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/prismarine_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:38:44 +0000"
@@ -1581,20 +1792,34 @@
     },
     "done": true
   },
+  "ebwizardry:discover_spell": {
+    "criteria": {
+      "criteria_0": "2020-04-23 06:53:42 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/magenta_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:38:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2020-04-22 21:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-04-21 18:37:18 +0000",
+      "swampland": "2020-04-23 17:38:48 +0000",
       "deep_ocean": "2020-04-20 03:31:32 +0000",
       "beaches": "2020-04-20 03:16:46 +0000",
       "extreme_hills_with_trees": "2020-04-21 23:17:02 +0000",
       "mesa": "2020-04-20 03:21:30 +0000",
       "plains": "2020-04-21 18:36:01 +0000",
+      "savanna": "2020-04-23 18:16:45 +0000",
       "mesa_clear_rock": "2020-04-20 03:23:02 +0000",
       "redwood_taiga": "2020-04-20 03:17:56 +0000",
       "taiga": "2020-04-20 03:17:26 +0000",
@@ -1653,6 +1878,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2020-04-21 06:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_the_recipe": "2020-04-23 05:56:52 +0000"
     },
     "done": true
   },
@@ -1728,9 +1959,21 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2020-04-23 17:58:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-21 06:56:41 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2020-04-23 05:22:28 +0000"
     },
     "done": true
   },
@@ -1794,6 +2037,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2020-04-23 04:27:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2020-04-20 05:14:16 +0000"
@@ -1851,6 +2100,18 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2020-04-22 00:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-04-22 21:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-04-23 05:09:04 +0000"
     },
     "done": true
   },
@@ -1935,6 +2196,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-21 06:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2020-04-22 21:42:44 +0000"
     },
     "done": true
   }

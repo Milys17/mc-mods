@@ -149,6 +149,13 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-23 00:31:41 +0000",
+      "diamond_chestplate": "2020-04-23 00:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-21 13:01:01 +0000"
@@ -185,6 +192,12 @@
     },
     "done": true
   },
+  "thebetweenlands:miner/advanced_darkness": {
+    "criteria": {
+      "caverns": "2020-04-23 07:30:24 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/light_blue_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:46:21 +0000"
@@ -212,6 +225,12 @@
   "bullseye:recipes/combat/fire_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-04-23 04:40:28 +0000"
     },
     "done": true
   },
@@ -281,6 +300,12 @@
     },
     "done": true
   },
+  "thebetweenlands:adventurer/root": {
+    "criteria": {
+      "talisman": "2020-04-22 19:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2020-04-21 03:35:22 +0000"
@@ -335,6 +360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2020-04-23 04:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-21 13:01:01 +0000"
@@ -368,6 +399,12 @@
   "ebwizardry:wizard_trade": {
     "criteria": {
       "criteria_0": "2020-04-21 23:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2020-04-22 20:13:45 +0000"
     },
     "done": true
   },
@@ -473,6 +510,12 @@
     },
     "done": true
   },
+  "thebetweenlands:survivalist/a_cure": {
+    "criteria": {
+      "have_sap": "2020-04-23 15:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-04-20 18:17:43 +0000"
@@ -503,6 +546,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b15c_pink_dye_verbena": {
+    "criteria": {
+      "has_the_recipe": "2020-04-23 01:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-04-20 02:45:10 +0000"
@@ -518,6 +567,12 @@
   "fossil:fossil/tar_fossil": {
     "criteria": {
       "tar_drop": "2020-04-21 12:38:33 +0000"
+    },
+    "done": true
+  },
+  "thebetweenlands:craftsman/efficiency": {
+    "criteria": {
+      "dual_furnace": "2020-04-23 12:49:24 +0000"
     },
     "done": true
   },
@@ -559,8 +614,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2020-04-23 06:56:15 +0000",
       "wither_skeleton": "2020-04-21 17:38:31 +0000",
       "zombie_villager": "2020-04-21 16:51:48 +0000",
+      "slime": "2020-04-23 06:43:16 +0000",
       "skeleton": "2020-04-20 02:54:47 +0000",
       "blaze": "2020-04-21 17:41:14 +0000",
       "silverfish": "2020-04-20 05:02:17 +0000",
@@ -568,10 +625,17 @@
       "cave_spider": "2020-04-21 20:12:55 +0000",
       "witch": "2020-04-20 03:35:40 +0000",
       "spider": "2020-04-20 03:15:29 +0000",
+      "ghast": "2020-04-23 05:40:28 +0000",
       "creeper": "2020-04-20 16:23:11 +0000",
       "enderman": "2020-04-21 11:21:56 +0000"
     },
     "done": false
+  },
+  "thebetweenlands:adventurer/bouldery_bois": {
+    "criteria": {
+      "event": "2020-04-23 12:50:17 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -627,6 +691,13 @@
     },
     "done": true
   },
+  "thebetweenlands:farmer/mushroom_master": {
+    "criteria": {
+      "black": "2020-04-23 07:54:23 +0000",
+      "flathead": "2020-04-23 07:53:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/brick_block": {
     "criteria": {
       "has_brick": "2020-04-20 23:52:35 +0000"
@@ -648,6 +719,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-21 13:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-04-22 17:23:07 +0000"
     },
     "done": true
   },
@@ -732,6 +809,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-04-21 00:07:38 +0000"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/dank_world": {
+    "criteria": {
+      "in_bl": "2020-04-23 07:30:24 +0000"
     },
     "done": true
   },
@@ -1040,6 +1123,7 @@
       "forest": "2020-04-20 05:24:52 +0000",
       "mesa_rock": "2020-04-21 12:07:18 +0000",
       "birch_forest": "2020-04-20 05:25:13 +0000",
+      "swampland": "2020-04-23 06:34:08 +0000",
       "deep_ocean": "2020-04-20 03:44:44 +0000",
       "beaches": "2020-04-20 02:40:53 +0000",
       "extreme_hills_with_trees": "2020-04-20 04:11:41 +0000",
@@ -1051,6 +1135,7 @@
       "taiga": "2020-04-20 02:41:46 +0000",
       "redwood_taiga_hills": "2020-04-20 03:21:11 +0000",
       "taiga_hills": "2020-04-20 02:37:49 +0000",
+      "birch_forest_hills": "2020-04-22 20:04:12 +0000",
       "ocean": "2020-04-20 03:26:47 +0000",
       "extreme_hills": "2020-04-20 03:37:52 +0000",
       "roofed_forest": "2020-04-20 05:20:44 +0000",
@@ -1083,6 +1168,14 @@
     },
     "done": true
   },
+  "thebetweenlands:adventurer/pothead": {
+    "criteria": {
+      "pot9": "2020-04-23 15:22:37 +0000",
+      "pot8": "2020-04-23 15:23:33 +0000",
+      "pot1": "2020-04-23 15:23:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-04-20 02:46:46 +0000"
@@ -1098,6 +1191,12 @@
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2020-04-20 15:49:02 +0000"
+    },
+    "done": true
+  },
+  "thebetweenlands:craftsman/all_over_again": {
+    "criteria": {
+      "weedwood_workbench": "2020-04-23 12:52:04 +0000"
     },
     "done": true
   },
@@ -1143,9 +1242,27 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2020-04-23 06:52:27 +0000"
+    },
+    "done": true
+  },
+  "thebetweenlands:miner/new_shinies": {
+    "criteria": {
+      "syrmorite": "2020-04-23 15:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-21 13:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-04-22 20:59:45 +0000"
     },
     "done": true
   },
@@ -1179,6 +1296,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b15_pink_dye_hawthorne": {
+    "criteria": {
+      "has_the_recipe": "2020-04-23 01:53:46 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/break_fossil": {
     "criteria": {
       "plant_fossil": "2020-04-20 02:52:03 +0000"
@@ -1194,6 +1317,12 @@
   "ferdinandsflowers:recipes/misc/13b_aqua_dye_mendo_poppy": {
     "criteria": {
       "has_the_recipe": "2020-04-20 22:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2020-04-22 20:59:45 +0000"
     },
     "done": true
   },
@@ -1233,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-04-23 01:31:39 +0000"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/1_red_dye_poppy": {
     "criteria": {
       "has_the_recipe": "2020-04-20 03:57:05 +0000"
@@ -1260,6 +1395,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-04-20 03:27:48 +0000"
+    },
+    "done": true
+  },
+  "thebetweenlands:survivalist/root": {
+    "criteria": {
+      "has_dank_world": "2020-04-23 07:30:25 +0000"
     },
     "done": true
   },
@@ -1296,6 +1437,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-04-20 03:27:48 +0000"
+    },
+    "done": true
+  },
+  "thebetweenlands:adventurer/give_me_that": {
+    "criteria": {
+      "talisman": "2020-04-23 07:12:18 +0000"
     },
     "done": true
   },
@@ -1485,6 +1632,12 @@
     },
     "done": true
   },
+  "thebetweenlands:miner/root": {
+    "criteria": {
+      "has_dank_world": "2020-04-23 07:30:25 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/restored_seed": {
     "criteria": {
       "fossil_seed": "2020-04-21 15:11:34 +0000"
@@ -1602,6 +1755,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-21 12:01:30 +0000"
+    },
+    "done": true
+  },
+  "thebetweenlands:farmer/root": {
+    "criteria": {
+      "has_dank_world": "2020-04-23 07:30:25 +0000"
     },
     "done": true
   },
@@ -1887,9 +2046,22 @@
     },
     "done": true
   },
+  "thebetweenlands:fighter/fearless_fighter": {
+    "criteria": {
+      "swamp_hag": "2020-04-23 15:22:24 +0000",
+      "wight": "2020-04-23 15:18:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-04-20 04:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-04-22 19:48:34 +0000"
     },
     "done": true
   },
@@ -1965,6 +2137,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/b15b_pink_dye_heart": {
+    "criteria": {
+      "has_pink_heart": "2020-04-23 01:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2020-04-20 03:27:48 +0000"
@@ -1979,14 +2157,30 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "metamorphosis": "2020-04-23 18:02:52 +0000",
+      "flame_ray": "2020-04-22 23:37:37 +0000",
       "spider_swarm": "2020-04-21 23:55:53 +0000",
       "light": "2020-04-21 13:51:21 +0000",
+      "snowball": "2020-04-22 16:31:50 +0000",
       "summon_zombie": "2020-04-20 16:00:13 +0000",
+      "ward": "2020-04-23 04:40:59 +0000",
+      "containment": "2020-04-23 03:07:19 +0000",
+      "leap": "2020-04-22 16:30:12 +0000",
       "fireball": "2020-04-21 23:59:39 +0000",
       "mine": "2020-04-20 15:56:23 +0000",
       "wither_skull": "2020-04-21 16:03:47 +0000",
+      "blizzard": "2020-04-22 18:51:47 +0000",
+      "ignite": "2020-04-22 21:24:43 +0000",
       "snare": "2020-04-21 23:57:04 +0000",
+      "vex_swarm": "2020-04-22 16:32:31 +0000",
       "magic_missile": "2020-04-20 15:55:25 +0000",
+      "ice_shroud": "2020-04-22 21:32:51 +0000",
+      "mind_trick": "2020-04-22 16:28:54 +0000",
+      "smoke_bomb": "2020-04-22 18:50:39 +0000",
+      "firebomb": "2020-04-23 17:16:59 +0000",
+      "dragon_fireball": "2020-04-22 21:54:18 +0000",
+      "cure_effects": "2020-04-22 23:06:39 +0000",
+      "pocket_workbench": "2020-04-22 21:26:33 +0000",
       "heal": "2020-04-22 05:36:56 +0000",
       "decoy": "2020-04-21 23:52:23 +0000",
       "frost_sigil": "2020-04-21 23:57:18 +0000"
@@ -2029,6 +2223,12 @@
     },
     "done": true
   },
+  "thebetweenlands:craftsman/getting_harder_wood": {
+    "criteria": {
+      "log_nibbletwig": "2020-04-23 07:32:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-04-20 03:27:48 +0000"
@@ -2056,6 +2256,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2020-04-20 02:54:22 +0000"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/root": {
+    "criteria": {
+      "has_dank_world": "2020-04-23 07:30:25 +0000"
     },
     "done": true
   },
@@ -2161,6 +2367,12 @@
     },
     "done": true
   },
+  "thebetweenlands:herbalist/root": {
+    "criteria": {
+      "has_dank_world": "2020-04-23 07:30:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-04-20 02:41:56 +0000"
@@ -2215,6 +2427,12 @@
     },
     "done": true
   },
+  "thebetweenlands:miner/rock_bottom": {
+    "criteria": {
+      "octine": "2020-04-23 15:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-20 04:32:52 +0000"
@@ -2224,6 +2442,12 @@
   "ferdinandsflowers:recipes/misc/b0c_light_blue_dye_parasol": {
     "criteria": {
       "has_light_blue_parasol": "2020-04-21 00:19:17 +0000"
+    },
+    "done": true
+  },
+  "thebetweenlands:craftsman/root": {
+    "criteria": {
+      "has_dank_world": "2020-04-23 07:30:25 +0000"
     },
     "done": true
   },
@@ -2281,6 +2505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2020-04-23 06:16:52 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/purple_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:46:21 +0000"
@@ -2290,6 +2520,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-04-20 02:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-04-22 17:27:12 +0000"
     },
     "done": true
   },
