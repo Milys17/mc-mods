@@ -433,8 +433,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-04-23 23:45:18 +0000",
       "cooked_mutton": "2020-04-22 00:36:08 +0000",
+      "cooked_beef": "2020-04-23 23:45:33 +0000",
       "baked_potato": "2020-04-20 04:26:34 +0000",
+      "porkchop": "2020-04-24 00:28:22 +0000",
       "apple": "2020-04-20 05:52:40 +0000",
       "potato": "2020-04-22 00:58:00 +0000",
       "cooked_cod": "2020-04-20 05:30:34 +0000",
@@ -501,6 +504,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-04-20 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "magic": "2020-04-24 00:48:35 +0000"
     },
     "done": true
   },
@@ -705,6 +714,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-21 22:52:39 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_trade": {
+    "criteria": {
+      "criteria_0": "2020-04-23 23:05:32 +0000"
     },
     "done": true
   },
@@ -1017,10 +1032,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2020-04-20 20:13:41 +0000",
+      "slime": "2020-04-23 23:52:58 +0000",
       "skeleton": "2020-04-20 15:49:55 +0000",
       "husk": "2020-04-20 05:33:06 +0000",
       "zombie": "2020-04-20 04:38:07 +0000",
       "silverfish": "2020-04-21 23:39:03 +0000",
+      "cave_spider": "2020-04-23 23:42:20 +0000",
+      "spider": "2020-04-23 23:08:45 +0000",
       "creeper": "2020-04-23 02:41:26 +0000"
     },
     "done": false
@@ -1329,10 +1347,12 @@
     "criteria": {
       "light": "2020-04-22 04:54:32 +0000",
       "summon_zombie": "2020-04-22 04:55:34 +0000",
+      "dart": "2020-04-23 23:06:25 +0000",
       "leap": "2020-04-22 05:34:08 +0000",
       "mine": "2020-04-22 04:59:38 +0000",
       "snare": "2020-04-22 04:56:01 +0000",
       "magic_missile": "2020-04-20 06:02:47 +0000",
+      "smoke_bomb": "2020-04-23 23:08:25 +0000",
       "conjure_block": "2020-04-22 05:34:14 +0000",
       "heal": "2020-04-22 05:37:07 +0000"
     },
@@ -1347,6 +1367,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2020-04-20 05:01:16 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/chainmail_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2020-04-23 23:02:43 +0000"
     },
     "done": true
   },
@@ -1644,6 +1670,12 @@
     },
     "done": true
   },
+  "fossil:fossil/dna": {
+    "criteria": {
+      "dna": "2020-04-24 01:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2020-04-20 04:42:12 +0000"
@@ -1665,6 +1697,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-04-20 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "abyssalcraft:mine_coralium": {
+    "criteria": {
+      "gem": "2020-04-23 23:43:46 +0000"
     },
     "done": true
   },
@@ -1859,6 +1897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-04-23 23:47:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-04-20 04:22:11 +0000"
@@ -1892,6 +1936,12 @@
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2020-04-20 05:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-04-23 23:08:48 +0000"
     },
     "done": true
   },
@@ -1976,6 +2026,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-20 20:36:13 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2020-04-24 00:20:37 +0000"
     },
     "done": true
   },
@@ -2078,6 +2134,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2020-04-20 06:00:01 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/broken_sword": {
+    "criteria": {
+      "broken_helmet": "2020-04-23 23:16:08 +0000"
     },
     "done": true
   },
