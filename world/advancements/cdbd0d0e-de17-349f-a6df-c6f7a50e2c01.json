@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-24 13:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-21 13:01:01 +0000"
@@ -226,6 +232,12 @@
   "wolfarmor:husbandry/armor_up": {
     "criteria": {
       "wolf_equipped": "2020-04-24 00:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-04-24 13:59:29 +0000"
     },
     "done": true
   },
@@ -361,6 +373,12 @@
     },
     "done": true
   },
+  "abyssalcraft:shadow_gems": {
+    "criteria": {
+      "necronomicon": "2020-04-24 18:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-20 18:07:36 +0000"
@@ -370,6 +388,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2020-04-21 00:07:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/dark_tower": {
+    "criteria": {
+      "discover": "2020-04-24 13:26:58 +0000"
     },
     "done": true
   },
@@ -680,6 +704,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-24 12:20:48 +0000"
+    },
+    "done": true
+  },
   "thebetweenlands:adventurer/bouldery_bois": {
     "criteria": {
       "event": "2020-04-23 12:50:17 +0000"
@@ -716,6 +746,12 @@
     },
     "done": true
   },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2020-04-24 13:20:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/naga_armor_set": {
     "criteria": {
       "ingredient": "2020-04-24 03:29:08 +0000"
@@ -749,6 +785,12 @@
   "fossil:fossil/figurine": {
     "criteria": {
       "broken_sword": "2020-04-21 03:42:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/troll": {
+    "criteria": {
+      "hurt": "2020-04-24 13:58:51 +0000"
     },
     "done": true
   },
@@ -862,6 +904,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/undead": {
+    "criteria": {
+      "0": "2020-04-24 12:05:56 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:crystal": {
     "criteria": {
       "criteria_0": "2020-04-20 04:33:42 +0000"
@@ -913,6 +961,12 @@
   "bullseye:recipes/combat/blue_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/lich": {
+    "criteria": {
+      "hurt_by_indirect": "2020-04-24 12:12:52 +0000"
     },
     "done": true
   },
@@ -1036,6 +1090,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/skeleton_druid": {
+    "criteria": {
+      "hurt": "2020-04-24 12:05:56 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:defeat_evil_wizard": {
     "criteria": {
       "criteria_0": "2020-04-21 20:11:58 +0000"
@@ -1120,6 +1180,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/mushroom_forest": {
+    "criteria": {
+      "discover": "2020-04-24 12:08:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2020-04-20 15:36:29 +0000"
@@ -1192,6 +1258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-24 12:20:48 +0000"
+    },
+    "done": true
+  },
   "bullseye:recipes/combat/magenta_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:46:21 +0000"
@@ -1206,6 +1278,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2020-04-24 19:05:57 +0000",
+      "frozen_river": "2020-04-24 19:06:22 +0000",
+      "taiga_cold_hills": "2020-04-24 19:23:17 +0000",
       "forest": "2020-04-20 05:24:52 +0000",
       "mesa_rock": "2020-04-21 12:07:18 +0000",
       "birch_forest": "2020-04-20 05:25:13 +0000",
@@ -1213,18 +1288,24 @@
       "deep_ocean": "2020-04-20 03:44:44 +0000",
       "beaches": "2020-04-20 02:40:53 +0000",
       "extreme_hills_with_trees": "2020-04-20 04:11:41 +0000",
+      "desert_hills": "2020-04-24 19:18:03 +0000",
       "mesa": "2020-04-20 02:57:57 +0000",
       "forest_hills": "2020-04-22 00:07:47 +0000",
       "plains": "2020-04-20 03:35:25 +0000",
+      "savanna": "2020-04-24 18:42:51 +0000",
       "mesa_clear_rock": "2020-04-21 12:06:30 +0000",
+      "savanna_rock": "2020-04-24 18:54:42 +0000",
+      "ice_mountains": "2020-04-24 19:06:01 +0000",
       "redwood_taiga": "2020-04-20 02:43:26 +0000",
       "taiga": "2020-04-20 02:41:46 +0000",
       "redwood_taiga_hills": "2020-04-20 03:21:11 +0000",
       "taiga_hills": "2020-04-20 02:37:49 +0000",
       "birch_forest_hills": "2020-04-22 20:04:12 +0000",
+      "taiga_cold": "2020-04-24 19:06:18 +0000",
       "ocean": "2020-04-20 03:26:47 +0000",
       "extreme_hills": "2020-04-20 03:37:52 +0000",
       "roofed_forest": "2020-04-20 05:20:44 +0000",
+      "cold_beach": "2020-04-24 19:05:47 +0000",
       "river": "2020-04-20 02:40:56 +0000",
       "desert": "2020-04-20 02:57:55 +0000",
       "stone_beach": "2020-04-23 23:58:31 +0000"
@@ -1455,6 +1536,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/charm_of_keeping": {
+    "criteria": {
+      "1": "2020-04-24 12:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-21 12:01:30 +0000"
@@ -1488,6 +1575,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-04-20 02:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-24 12:20:48 +0000"
     },
     "done": true
   },
@@ -1732,7 +1825,9 @@
       "cooked_beef": "2020-04-20 04:21:58 +0000",
       "baked_potato": "2020-04-20 04:06:28 +0000",
       "apple": "2020-04-21 02:28:38 +0000",
+      "cooked_cod": "2020-04-24 13:40:07 +0000",
       "bread": "2020-04-20 13:47:28 +0000",
+      "golden_apple": "2020-04-24 19:18:54 +0000",
       "carrot": "2020-04-20 03:06:54 +0000"
     },
     "done": false
@@ -1761,6 +1856,18 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/charms": {
+    "criteria": {
+      "1": "2020-04-24 12:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2020-04-24 18:00:43 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/restored_seed": {
     "criteria": {
       "fossil_seed": "2020-04-21 15:11:34 +0000"
@@ -1779,6 +1886,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dark_forest": {
+    "criteria": {
+      "0": "2020-04-24 13:23:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-04-21 13:01:01 +0000"
@@ -1793,7 +1906,11 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "canopy_log": "2020-04-24 03:25:55 +0000"
+      "twilight_oak_planks": "2020-04-24 13:38:13 +0000",
+      "twilight_oak_log": "2020-04-24 13:32:00 +0000",
+      "canopy_planks": "2020-04-24 13:20:22 +0000",
+      "canopy_log": "2020-04-24 03:25:55 +0000",
+      "liveroots": "2020-04-24 12:02:59 +0000"
     },
     "done": false
   },
@@ -1812,6 +1929,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-04-20 18:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-04-24 13:43:54 +0000"
     },
     "done": true
   },
@@ -1881,6 +2004,12 @@
     },
     "done": false
   },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2020-04-24 13:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-21 12:01:30 +0000"
@@ -1890,6 +2019,12 @@
   "thebetweenlands:farmer/root": {
     "criteria": {
       "has_dank_world": "2020-04-23 07:30:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2020-04-24 13:18:55 +0000"
     },
     "done": true
   },
@@ -2103,6 +2238,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/death_tome": {
+    "criteria": {
+      "hurt": "2020-04-24 12:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-04-20 03:27:48 +0000"
@@ -2300,6 +2441,7 @@
     "criteria": {
       "homing_spark": "2020-04-23 20:29:35 +0000",
       "freeze": "2020-04-23 20:09:23 +0000",
+      "imbue_weapon": "2020-04-24 21:00:09 +0000",
       "cobwebs": "2020-04-24 02:31:14 +0000",
       "metamorphosis": "2020-04-23 18:02:52 +0000",
       "conjure_bow": "2020-04-23 19:56:29 +0000",
@@ -2308,16 +2450,23 @@
       "light": "2020-04-21 13:51:21 +0000",
       "snowball": "2020-04-22 16:31:50 +0000",
       "flight": "2020-04-24 01:23:52 +0000",
+      "muffle": "2020-04-24 21:34:44 +0000",
+      "shield": "2020-04-24 19:26:13 +0000",
+      "thunderbolt": "2020-04-24 21:04:00 +0000",
       "summon_zombie": "2020-04-20 16:00:13 +0000",
       "ward": "2020-04-23 04:40:59 +0000",
       "containment": "2020-04-23 03:07:19 +0000",
       "dart": "2020-04-24 01:36:31 +0000",
+      "arc": "2020-04-24 17:25:36 +0000",
+      "invoke_weather": "2020-04-24 21:05:49 +0000",
+      "bubble": "2020-04-24 21:04:20 +0000",
       "leap": "2020-04-22 16:30:12 +0000",
       "fireball": "2020-04-21 23:59:39 +0000",
       "mine": "2020-04-20 15:56:23 +0000",
       "wither_skull": "2020-04-21 16:03:47 +0000",
       "blizzard": "2020-04-22 18:51:47 +0000",
       "summon_snow_golem": "2020-04-24 00:53:28 +0000",
+      "glide": "2020-04-24 21:10:57 +0000",
       "ignite": "2020-04-22 21:24:43 +0000",
       "lightning_ray": "2020-04-24 00:53:14 +0000",
       "snare": "2020-04-21 23:57:04 +0000",
@@ -2329,12 +2478,16 @@
       "firebolt": "2020-04-23 20:09:12 +0000",
       "smoke_bomb": "2020-04-22 18:50:39 +0000",
       "firebomb": "2020-04-23 17:16:59 +0000",
+      "conjure_block": "2020-04-24 21:41:15 +0000",
+      "flaming_weapon": "2020-04-24 21:38:18 +0000",
+      "remove_curse": "2020-04-24 22:04:58 +0000",
       "dragon_fireball": "2020-04-22 21:54:18 +0000",
       "cure_effects": "2020-04-22 23:06:39 +0000",
       "pocket_workbench": "2020-04-22 21:26:33 +0000",
       "heal": "2020-04-22 05:36:56 +0000",
       "decoy": "2020-04-21 23:52:23 +0000",
-      "frost_sigil": "2020-04-21 23:57:18 +0000"
+      "frost_sigil": "2020-04-21 23:57:18 +0000",
+      "lightning_arrow": "2020-04-24 19:26:25 +0000"
     },
     "done": false
   },
@@ -2389,6 +2542,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-21 13:01:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dark_forest_center": {
+    "criteria": {
+      "discover": "2020-04-24 13:26:23 +0000"
     },
     "done": true
   },
@@ -2560,6 +2719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2020-04-24 12:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-04-21 17:42:26 +0000"
@@ -2578,6 +2743,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/kobold": {
+    "criteria": {
+      "hurt": "2020-04-24 13:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-04-20 03:24:50 +0000"
@@ -2593,6 +2764,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-20 04:32:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2020-04-24 12:10:08 +0000"
     },
     "done": true
   },
@@ -2847,6 +3024,18 @@
       "kill_naga": "2020-04-24 03:28:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2020-04-24 17:56:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_highlands": {
+    "criteria": {
+      "discover": "2020-04-24 13:46:18 +0000"
+    },
+    "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {

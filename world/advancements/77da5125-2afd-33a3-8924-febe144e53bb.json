@@ -873,6 +873,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/0b_dark_red_dye_desert_pea": {
+    "criteria": {
+      "has_dark_red_desert_pea": "2020-04-24 21:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-04-20 04:24:45 +0000"
@@ -1163,6 +1169,12 @@
     },
     "done": true
   },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2020-04-24 21:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2020-04-20 04:59:18 +0000"
@@ -1345,6 +1357,8 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "frost_ray": "2020-04-24 22:59:50 +0000",
+      "empowering_presence": "2020-04-24 22:58:25 +0000",
       "light": "2020-04-22 04:54:32 +0000",
       "summon_zombie": "2020-04-22 04:55:34 +0000",
       "dart": "2020-04-23 23:06:25 +0000",
@@ -1987,6 +2001,12 @@
     },
     "done": true
   },
+  "ferdinandsflowers:recipes/misc/0_dark_red_dye_gladiola": {
+    "criteria": {
+      "has_the_recipe": "2020-04-24 21:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2020-04-20 03:58:43 +0000"
@@ -2014,6 +2034,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-04-20 04:22:11 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2020-04-24 22:13:24 +0000"
     },
     "done": true
   },

@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-04-25 06:55:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2020-04-20 03:23:20 +0000"
@@ -230,6 +236,15 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-04-22 21:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-04-25 06:43:55 +0000",
+      "diamond_helmet": "2020-04-25 06:43:55 +0000",
+      "diamond_chestplate": "2020-04-25 06:43:55 +0000",
+      "diamond_boots": "2020-04-25 06:43:55 +0000"
     },
     "done": true
   },
@@ -505,6 +520,12 @@
   "bullseye:recipes/combat/black_dye_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 04:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2020-04-25 06:55:20 +0000"
     },
     "done": true
   },
@@ -802,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-04-25 04:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-04-20 02:45:51 +0000"
@@ -829,6 +856,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2020-04-22 21:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-04-25 06:55:20 +0000"
     },
     "done": true
   },
@@ -990,6 +1023,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2020-04-25 06:39:35 +0000",
       "wither_skeleton": "2020-04-24 03:50:47 +0000",
       "magma_cube": "2020-04-24 03:56:10 +0000",
       "skeleton": "2020-04-20 03:03:01 +0000",
@@ -998,6 +1032,7 @@
       "cave_spider": "2020-04-20 04:08:03 +0000",
       "zombie": "2020-04-20 04:12:50 +0000",
       "spider": "2020-04-20 02:52:47 +0000",
+      "ghast": "2020-04-25 06:30:52 +0000",
       "creeper": "2020-04-22 03:34:34 +0000",
       "enderman": "2020-04-23 00:12:55 +0000"
     },
@@ -1126,6 +1161,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2020-04-20 04:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-04-25 04:13:03 +0000"
     },
     "done": true
   },
@@ -1539,6 +1580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2020-04-25 06:55:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-04-20 03:17:50 +0000"
@@ -1698,6 +1745,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-04-20 04:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2020-04-25 05:47:06 +0000"
     },
     "done": true
   },
@@ -1877,6 +1930,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2020-04-20 02:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2020-04-25 02:42:10 +0000"
     },
     "done": true
   },
@@ -2189,6 +2248,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2020-04-23 01:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2020-04-25 06:55:20 +0000"
     },
     "done": true
   },
