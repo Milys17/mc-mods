@@ -331,6 +331,12 @@
     },
     "done": true
   },
+  "abyssalcraft:ethaxium": {
+    "criteria": {
+      "abyssalnite": "2020-04-28 23:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-20 02:46:46 +0000"
@@ -887,6 +893,12 @@
     },
     "done": false
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-04-28 18:07:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_block": {
     "criteria": {
       "has_brick": "2020-04-20 23:52:35 +0000"
@@ -956,6 +968,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-04-21 17:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-04-28 18:23:23 +0000"
     },
     "done": true
   },
@@ -1193,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-04-27 13:03:27 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:defeat_evil_wizard": {
     "criteria": {
       "criteria_0": "2020-04-21 20:11:58 +0000"
@@ -1340,6 +1364,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-04-21 12:01:30 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2020-04-27 20:59:38 +0000"
     },
     "done": true
   },
@@ -1939,6 +1969,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-04-27 15:36:42 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/dino_egg": {
     "criteria": {
       "dna": "2020-04-21 14:38:47 +0000"
@@ -2065,6 +2101,7 @@
     "criteria": {
       "twilight_oak_planks": "2020-04-24 13:38:13 +0000",
       "twilight_oak_log": "2020-04-24 13:32:00 +0000",
+      "canopy_gate": "2020-04-28 02:30:02 +0000",
       "canopy_planks": "2020-04-24 13:20:22 +0000",
       "canopy_log": "2020-04-24 03:25:55 +0000",
       "liveroots": "2020-04-24 12:02:59 +0000"
@@ -2134,6 +2171,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-04-20 15:21:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-04-27 13:40:34 +0000"
     },
     "done": true
   },
@@ -2213,6 +2256,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-04-20 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-04-27 15:39:54 +0000"
     },
     "done": true
   },
@@ -2518,6 +2567,12 @@
     },
     "done": true
   },
+  "abyssalcraft:mine_dreadlands_ores": {
+    "criteria": {
+      "abyssalnite": "2020-04-28 16:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2020-04-22 19:48:34 +0000"
@@ -2616,11 +2671,13 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "plague_of_darkness": "2020-04-27 12:26:50 +0000",
       "spark_bomb": "2020-04-27 03:02:46 +0000",
       "homing_spark": "2020-04-23 20:29:35 +0000",
       "freeze": "2020-04-23 20:09:23 +0000",
       "imbue_weapon": "2020-04-24 21:00:09 +0000",
       "cobwebs": "2020-04-24 02:31:14 +0000",
+      "summon_blaze": "2020-04-27 15:47:29 +0000",
       "metamorphosis": "2020-04-23 18:02:52 +0000",
       "conjure_bow": "2020-04-23 19:56:29 +0000",
       "flame_ray": "2020-04-22 23:37:37 +0000",
@@ -2649,16 +2706,19 @@
       "blizzard": "2020-04-22 18:51:47 +0000",
       "summon_snow_golem": "2020-04-24 00:53:28 +0000",
       "glide": "2020-04-24 21:10:57 +0000",
+      "heal_ally": "2020-04-27 12:32:58 +0000",
       "ignite": "2020-04-22 21:24:43 +0000",
       "invigorating_presence": "2020-04-27 03:03:44 +0000",
       "lightning_ray": "2020-04-24 00:53:14 +0000",
       "snare": "2020-04-21 23:57:04 +0000",
       "vex_swarm": "2020-04-22 16:32:31 +0000",
       "magic_missile": "2020-04-20 15:55:25 +0000",
+      "evade": "2020-04-27 17:40:41 +0000",
       "life_drain": "2020-04-26 03:42:18 +0000",
       "ice_shroud": "2020-04-22 21:32:51 +0000",
       "mind_trick": "2020-04-22 16:28:54 +0000",
       "conjure_armour": "2020-04-24 02:52:38 +0000",
+      "darkvision": "2020-04-27 17:39:12 +0000",
       "firebolt": "2020-04-23 20:09:12 +0000",
       "smoke_bomb": "2020-04-22 18:50:39 +0000",
       "ice_statue": "2020-04-25 23:08:17 +0000",
@@ -2718,6 +2778,12 @@
   "thebetweenlands:craftsman/getting_harder_wood": {
     "criteria": {
       "log_nibbletwig": "2020-04-23 07:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-04-28 18:25:04 +0000"
     },
     "done": true
   },
@@ -2973,6 +3039,12 @@
     },
     "done": true
   },
+  "abyssalcraft:dreadium": {
+    "criteria": {
+      "abyssalnite": "2020-04-28 17:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-20 04:32:52 +0000"
@@ -3066,6 +3138,12 @@
   "naturesaura:infused_materials": {
     "criteria": {
       "materials": "2020-04-26 07:31:54 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:aura_bottle_end": {
+    "criteria": {
+      "bottle": "2020-04-28 18:52:19 +0000"
     },
     "done": true
   },
@@ -3183,6 +3261,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-04-28 18:23:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-04-20 02:49:39 +0000"
@@ -3192,6 +3276,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_cow": "2020-04-21 02:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2020-04-28 02:29:34 +0000"
     },
     "done": true
   },
