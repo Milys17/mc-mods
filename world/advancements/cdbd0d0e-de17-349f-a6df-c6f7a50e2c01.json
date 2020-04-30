@@ -2186,6 +2186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-04-30 00:56:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2020-04-22 05:59:16 +0000"
@@ -2704,6 +2710,7 @@
       "charge": "2020-04-25 23:05:53 +0000",
       "wither_skull": "2020-04-21 16:03:47 +0000",
       "blizzard": "2020-04-22 18:51:47 +0000",
+      "phase_step": "2020-04-30 13:52:20 +0000",
       "summon_snow_golem": "2020-04-24 00:53:28 +0000",
       "glide": "2020-04-24 21:10:57 +0000",
       "heal_ally": "2020-04-27 12:32:58 +0000",
@@ -3048,6 +3055,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-20 04:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-04-30 15:11:25 +0000"
     },
     "done": true
   },
