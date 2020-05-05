@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-05-04 00:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-04-20 03:19:33 +0000"
@@ -269,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-05-03 21:04:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-04-20 03:48:23 +0000"
@@ -290,6 +302,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-04-20 03:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2020-05-04 00:23:48 +0000"
     },
     "done": true
   },
@@ -380,6 +398,12 @@
   "ebwizardry:handbook/scrolls": {
     "criteria": {
       "criteria_0": "2020-04-21 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:discover_master_spell": {
+    "criteria": {
+      "criteria_0": "2020-05-03 05:14:06 +0000"
     },
     "done": true
   },
@@ -620,6 +644,12 @@
   "bullseye:recipes/combat/bomb_arrow": {
     "criteria": {
       "has_feather": "2020-04-20 03:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2020-05-03 21:04:02 +0000"
     },
     "done": true
   },
@@ -1380,6 +1410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2020-05-04 00:23:48 +0000"
+    },
+    "done": true
+  },
   "ferdinandsflowers:recipes/misc/13b_aqua_dye_mendo_poppy": {
     "criteria": {
       "has_the_recipe": "2020-04-20 19:25:12 +0000"
@@ -1689,8 +1725,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-04-20 03:50:12 +0000",
+      "chicken": "2020-05-03 05:20:33 +0000",
       "cooked_mutton": "2020-04-20 05:06:27 +0000",
       "potato": "2020-04-23 20:08:26 +0000",
+      "melon": "2020-05-04 05:17:20 +0000",
       "bread": "2020-04-21 21:57:31 +0000",
       "golden_apple": "2020-04-21 21:57:48 +0000",
       "raw_cod": "2020-04-25 22:02:04 +0000",
@@ -2304,6 +2342,7 @@
       "cobwebs": "2020-04-24 05:00:59 +0000",
       "metamorphosis": "2020-04-23 22:41:44 +0000",
       "spider_swarm": "2020-04-23 19:16:16 +0000",
+      "fire_breath": "2020-05-03 05:14:06 +0000",
       "light": "2020-04-23 22:55:07 +0000",
       "snowball": "2020-04-23 18:44:26 +0000",
       "thunderbolt": "2020-04-24 01:21:48 +0000",
@@ -2561,6 +2600,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-04-21 05:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-05-03 17:40:49 +0000"
     },
     "done": true
   },

@@ -1,202 +1,67 @@
-[00:00:05] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[00:00:05] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 92 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,mca@6.1.0,creativecoredummy@1.0.0,openmods@0.12.2,ebwizardry@4.2.11,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,thermalfoundation@2.6.7,neat@1.4-17,glassential@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,valkyrienwarfare@0.9_prerelease_5,bookshelf@2.3.585,harvestcraft@1.12.2zb,llibrary@1.7.19,cofhworld@1.4.0,grimoireofgaia@1.7.2,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,naturalbabyanimals@1.2.2,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,warpbook@@VERSION@,malisisdoors@1.12.2-7.3.0,twilightforest@3.10.1013,ftbutilities@5.4.0.124,chesttransporter@2.8.8,openblocks@1.8.1,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,thermaldynamics@2.5.6,baubles@1.5.2,redstoneflux@2.1.1,roost@2.0.10,cxlibrary@1.6.1,openmodscore@0.12.2,creativecore@1.10.0,msmlegacy@@VERSION@,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,mocreatures@12.0.5,mantle@1.12-1.3.3.55,patchouli@1.0-20,spartanshields@1.5.4,abyssalcraft@1.9.18,thebetweenlands@3.5.10,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,thermalexpansion@5.5.7,opframe@1.4.0,fastfurnace@1.3.1,naturesaura@18.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0
-[00:00:05] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[00:00:05] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[00:00:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:00:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: soruame[/201.240.145.152:49935] logged in with entity id 195685 at (-2228.833592209969, 64.0, -1976.3278590103391)
-[00:00:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame joined the game
-[00:00:10] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for soruame
-[00:00:10] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for soruame
-[00:00:10] [Server thread/INFO] [ebwizardry]: Synchronising config settings for soruame
-[00:00:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for soruame
-[00:00:10] [Server thread/INFO] [Waila]: Player EntityPlayerMP['soruame'/195685, l='world', x=-2228.83, y=64.00, z=-1976.33] connected. Sending ping
-[00:06:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: soruame lost connection: Disconnected
-[00:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame left the game
-[00:07:19] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[00:07:19] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 92 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,mca@6.1.0,creativecoredummy@1.0.0,openmods@0.12.2,ebwizardry@4.2.11,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,thermalfoundation@2.6.7,neat@1.4-17,glassential@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,valkyrienwarfare@0.9_prerelease_5,bookshelf@2.3.585,harvestcraft@1.12.2zb,llibrary@1.7.19,cofhworld@1.4.0,grimoireofgaia@1.7.2,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,naturalbabyanimals@1.2.2,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,warpbook@@VERSION@,malisisdoors@1.12.2-7.3.0,twilightforest@3.10.1013,ftbutilities@5.4.0.124,chesttransporter@2.8.8,openblocks@1.8.1,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,thermaldynamics@2.5.6,baubles@1.5.2,redstoneflux@2.1.1,roost@2.0.10,cxlibrary@1.6.1,openmodscore@0.12.2,creativecore@1.10.0,msmlegacy@@VERSION@,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,mocreatures@12.0.5,mantle@1.12-1.3.3.55,patchouli@1.0-20,spartanshields@1.5.4,abyssalcraft@1.9.18,thebetweenlands@3.5.10,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,thermalexpansion@5.5.7,opframe@1.4.0,fastfurnace@1.3.1,naturesaura@18.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0
-[00:07:19] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[00:07:19] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[00:07:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:07:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: soruame[/201.240.145.152:65194] logged in with entity id 201095 at (-2229.620625495212, 64.0, -1990.3252855514368)
-[00:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame joined the game
-[00:07:23] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for soruame
-[00:07:23] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for soruame
-[00:07:23] [Server thread/INFO] [ebwizardry]: Synchronising config settings for soruame
-[00:07:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for soruame
-[00:07:23] [Server thread/INFO] [Waila]: Player EntityPlayerMP['soruame'/201095, l='world', x=-2229.62, y=64.00, z=-1990.33] connected. Sending ping
-[00:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame is bleeding...
-[00:07:44] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /home/minecraft/./world/data/inventory-soruame-2020-05-02_00.07.44-death-0.dat. It can be restored with command '/ob_inventory restore soruame soruame-2020-05-02_00.07.44-death-0'
-[00:07:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame was slain by Vex
-[00:07:44] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (cfaf8182-9777-3f53-ba75-fbba2f9cc412,soruame) was spawned at (BlockPos{x=-2234, y=64, z=-1982}) (player died at (BlockPos{x=-2233, y=64, z=-1982}))
-[00:08:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: soruame lost connection: Disconnected
-[00:08:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame left the game
-[01:35:53] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:35:53] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 91 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,mca@6.1.0,creativecoredummy@1.0.0,openmods@0.12.2,ebwizardry@4.2.11,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,thermalfoundation@2.6.7,neat@1.4-17,glassential@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,valkyrienwarfare@0.9_prerelease_5,bookshelf@2.3.585,harvestcraft@1.12.2zb,llibrary@1.7.19,cofhworld@1.4.0,grimoireofgaia@1.7.2,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,naturalbabyanimals@1.2.2,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,warpbook@@VERSION@,malisisdoors@1.12.2-7.3.0,twilightforest@3.10.1013,ftbutilities@5.4.0.124,chesttransporter@2.8.8,openblocks@1.8.1,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,thermaldynamics@2.5.6,baubles@1.5.2,redstoneflux@2.1.1,roost@2.0.10,cxlibrary@1.6.1,openmodscore@0.12.2,creativecore@1.10.0,msmlegacy@@VERSION@,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,mocreatures@12.0.5,mantle@1.12-1.3.3.55,patchouli@1.0-20,spartanshields@1.5.4,abyssalcraft@1.9.18,thebetweenlands@3.5.10,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,thermalexpansion@5.5.7,opframe@1.4.0,fastfurnace@1.3.1,naturesaura@18.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0
-[01:35:53] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[01:35:53] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[01:35:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:35:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.198.56:56778] logged in with entity id 202218 at (-192.5, 70.0, 247.5)
-[01:35:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
-[01:35:57] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Milys17
-[01:35:57] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[01:35:57] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Milys17
-[01:35:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Milys17
-[01:35:57] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/202218, l='world', x=-192.50, y=70.00, z=247.50] connected. Sending ping
-[01:36:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -13.533685730383922,0.5,-44.599857474035616
-[01:37:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[01:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
-[01:39:58] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[01:39:58] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 91 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,mca@6.1.0,creativecoredummy@1.0.0,openmods@0.12.2,ebwizardry@4.2.11,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,thermalfoundation@2.6.7,neat@1.4-17,glassential@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,valkyrienwarfare@0.9_prerelease_5,bookshelf@2.3.585,harvestcraft@1.12.2zb,llibrary@1.7.19,cofhworld@1.4.0,grimoireofgaia@1.7.2,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,naturalbabyanimals@1.2.2,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,warpbook@@VERSION@,malisisdoors@1.12.2-7.3.0,twilightforest@3.10.1013,ftbutilities@5.4.0.124,chesttransporter@2.8.8,openblocks@1.8.1,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,thermaldynamics@2.5.6,baubles@1.5.2,redstoneflux@2.1.1,roost@2.0.10,cxlibrary@1.6.1,openmodscore@0.12.2,creativecore@1.10.0,msmlegacy@@VERSION@,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,mocreatures@12.0.5,mantle@1.12-1.3.3.55,patchouli@1.0-20,spartanshields@1.5.4,abyssalcraft@1.9.18,thebetweenlands@3.5.10,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,thermalexpansion@5.5.7,opframe@1.4.0,fastfurnace@1.3.1,naturesaura@18.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0
-[01:39:58] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[01:39:58] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[01:40:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:40:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.198.56:56888] logged in with entity id 203137 at (-192.5, 70.5, 247.5)
-[01:40:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
-[01:40:01] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Milys17
-[01:40:01] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[01:40:01] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Milys17
-[01:40:01] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Milys17
-[01:40:01] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/203137, l='world', x=-192.50, y=70.50, z=247.50] connected. Sending ping
-[01:41:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -3.5172297000067942,1.5,-53.609854999306435
-[01:45:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -37.571303899200956,-1.5,-50.00195017418429
-[01:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [A Taste of Sunlight]
-[01:46:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Milys17
-[01:47:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@45154179)
-[01:47:18] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.physmanagement.chunk.DimensionPhysicsChunkManager:initWorld:40]: Physics Chunk Manager Initialized
-[01:47:18] [Server thread/INFO] [STDERR]: [valkyrienwarfare.mod.physmanagement.chunk.ChunkClaimWorldData:get:48]: Had to create a null ChunkKeysWorldData; could this be corruption?
-[01:47:19] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[01:47:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2207ms behind, skipping 44 tick(s)
-[01:47:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [Spooky Scary Skeletons]
-[01:47:26] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Milys17
-[01:47:44] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[01:48:46] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 14 marked for death.
-[01:48:46] [VW World Thread 14/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 14 killed
-[01:48:46] [Server thread/INFO] [FML]: Unloading dimension -1
-[01:53:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
-[01:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
-[01:55:24] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:55:24] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 91 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,mca@6.1.0,creativecoredummy@1.0.0,openmods@0.12.2,ebwizardry@4.2.11,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,thermalfoundation@2.6.7,neat@1.4-17,glassential@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,valkyrienwarfare@0.9_prerelease_5,bookshelf@2.3.585,harvestcraft@1.12.2zb,llibrary@1.7.19,cofhworld@1.4.0,grimoireofgaia@1.7.2,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,naturalbabyanimals@1.2.2,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,warpbook@@VERSION@,malisisdoors@1.12.2-7.3.0,twilightforest@3.10.1013,ftbutilities@5.4.0.124,chesttransporter@2.8.8,openblocks@1.8.1,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,thermaldynamics@2.5.6,baubles@1.5.2,redstoneflux@2.1.1,roost@2.0.10,cxlibrary@1.6.1,openmodscore@0.12.2,creativecore@1.10.0,msmlegacy@@VERSION@,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,mocreatures@12.0.5,mantle@1.12-1.3.3.55,patchouli@1.0-20,spartanshields@1.5.4,abyssalcraft@1.9.18,thebetweenlands@3.5.10,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,thermalexpansion@5.5.7,opframe@1.4.0,fastfurnace@1.3.1,naturesaura@18.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0
-[01:55:24] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[01:55:24] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[01:55:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:55:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.198.56:56991] logged in with entity id 210341 at (-154.92430728748784, 72.0, 302.59705168054194)
-[01:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
-[01:55:27] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Milys17
-[01:55:27] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[01:55:27] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Milys17
-[01:55:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Milys17
-[01:55:27] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/210341, l='world', x=-154.92, y=72.00, z=302.60] connected. Sending ping
-[02:09:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -33.65885651461849,-1.5,-40.29292135202667
-[02:13:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -18.817698766269757,-1.5,-39.0793511979366
-[02:14:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -28.17627008339454,-1.5,-53.18636012338766
-[02:21:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -27.357030584401997,-1.5,-39.95102057583591
-[02:23:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -32.58248025021072,-1.5,-35.94614492906612
-[02:33:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -48.48003822476929,-1.5,-46.386396356691705
-[02:36:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
-[02:36:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
-[02:42:00] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[02:42:00] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 91 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,mca@6.1.0,creativecoredummy@1.0.0,openmods@0.12.2,ebwizardry@4.2.11,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,thermalfoundation@2.6.7,neat@1.4-17,glassential@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,valkyrienwarfare@0.9_prerelease_5,bookshelf@2.3.585,harvestcraft@1.12.2zb,llibrary@1.7.19,cofhworld@1.4.0,grimoireofgaia@1.7.2,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,naturalbabyanimals@1.2.2,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,guideapi@1.12-2.1.8-63,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,warpbook@@VERSION@,malisisdoors@1.12.2-7.3.0,twilightforest@3.10.1013,ftbutilities@5.4.0.124,chesttransporter@2.8.8,openblocks@1.8.1,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,thermaldynamics@2.5.6,baubles@1.5.2,redstoneflux@2.1.1,roost@2.0.10,cxlibrary@1.6.1,openmodscore@0.12.2,creativecore@1.10.0,msmlegacy@@VERSION@,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,mocreatures@12.0.5,mantle@1.12-1.3.3.55,patchouli@1.0-20,spartanshields@1.5.4,abyssalcraft@1.9.18,thebetweenlands@3.5.10,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,thermalexpansion@5.5.7,opframe@1.4.0,fastfurnace@1.3.1,naturesaura@18.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0
-[02:42:00] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[02:42:00] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[02:42:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:42:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Milys17[/201.171.198.56:57190] logged in with entity id 222559 at (-146.66664426130026, 72.0, 298.2457131746332)
-[02:42:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 joined the game
-[02:42:04] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for Milys17
-[02:42:04] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[02:42:04] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Milys17
-[02:42:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Milys17
-[02:42:04] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Milys17'/222559, l='world', x=-146.67, y=72.00, z=298.25] connected. Sending ping
-[02:52:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [Empowered]
-[02:52:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Milys17
-[02:54:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -26.73803523832811,-1.5,-41.518437072675454
-[02:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [Iron Factory]
-[02:55:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Milys17
-[02:58:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -42.47678663485877,-1.5,-45.449793290297634
-[03:01:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -43.18604236496708,-1.5,-44.81708466266866
-[03:12:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -45.319638327441965,-1.5,-46.80929855443736
-[03:16:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -34.27237992604313,-1.5,-47.559667017468996
-[03:20:16] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@45154179)
-[03:20:16] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.physmanagement.chunk.DimensionPhysicsChunkManager:initWorld:40]: Physics Chunk Manager Initialized
-[03:20:16] [Server thread/INFO] [STDERR]: [valkyrienwarfare.mod.physmanagement.chunk.ChunkClaimWorldData:get:48]: Had to create a null ChunkKeysWorldData; could this be corruption?
-[03:20:18] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[03:20:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! 144.98748914113483,28.5,-221.471016042806
-[03:20:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2245ms behind, skipping 44 tick(s)
-[03:33:13] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[03:33:47] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 15 marked for death.
-[03:33:47] [VW World Thread 15/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 15 killed
-[03:33:47] [Server thread/INFO] [FML]: Unloading dimension -1
-[03:41:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID f5878531-252f-4305-86c4-f9e8ff96e219
-[03:41:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 99979c6b-ec78-4834-a703-d353a68cca0f
-[03:41:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 08448726-b860-4e01-9936-824ec1511f43
-[03:41:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID a30edd43-9b23-4e20-932a-4adf12824eda
-[03:44:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 614f7d1a-8729-4e20-a1a0-94541ce1cef3
-[03:45:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d683d73a-cc10-4c42-92fa-633ba11f3d56
-[03:45:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:goldfish that already exists with UUID 0f322318-61f4-44e6-acc2-2cca38ef5de9
-[03:45:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[03:45:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
-[03:55:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! 1800.5228652511375,2.5,838.5720875268004
-[03:56:25] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@45154179)
-[03:56:25] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.physmanagement.chunk.DimensionPhysicsChunkManager:initWorld:40]: Physics Chunk Manager Initialized
-[03:56:25] [Server thread/INFO] [STDERR]: [valkyrienwarfare.mod.physmanagement.chunk.ChunkClaimWorldData:get:48]: Had to create a null ChunkKeysWorldData; could this be corruption?
-[03:56:26] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[04:01:49] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[04:02:11] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[04:02:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! 144.55158307074788,28.5,-221.02388892570207
-[04:05:24] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[04:05:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2533ms behind, skipping 50 tick(s)
-[04:06:02] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 16 marked for death.
-[04:06:02] [VW World Thread 16/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 16 killed
-[04:06:03] [Server thread/INFO] [FML]: Unloading dimension -1
-[04:06:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -54.19577537732374,11.5,-64.19999998807907
-[04:10:43] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@45154179)
-[04:10:43] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.physmanagement.chunk.DimensionPhysicsChunkManager:initWorld:40]: Physics Chunk Manager Initialized
-[04:10:43] [Server thread/INFO] [STDERR]: [valkyrienwarfare.mod.physmanagement.chunk.ChunkClaimWorldData:get:48]: Had to create a null ChunkKeysWorldData; could this be corruption?
-[04:10:44] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[04:10:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! 144.63678049626563,28.5,-220.84440981215164
-[04:20:41] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[04:21:02] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 17 marked for death.
-[04:21:02] [VW World Thread 17/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 17 killed
-[04:21:03] [Server thread/INFO] [FML]: Unloading dimension -1
-[04:21:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! 1647.2953745831303,-23.5,457.19999998807907
-[04:22:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Milys17 moved too quickly! -27.6896954802871,-5.5,-14.736413998712692
-[04:24:19] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [28, 9] in dimension 0 (overworld) while populating chunk [28, 10], causing cascading worldgen lag.
-[04:24:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[04:24:21] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [29, 8] in dimension 0 (overworld) while populating chunk [29, 9], causing cascading worldgen lag.
-[04:24:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[04:27:59] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@45154179)
-[04:27:59] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.physmanagement.chunk.DimensionPhysicsChunkManager:initWorld:40]: Physics Chunk Manager Initialized
-[04:27:59] [Server thread/INFO] [STDERR]: [valkyrienwarfare.mod.physmanagement.chunk.ChunkClaimWorldData:get:48]: Had to create a null ChunkKeysWorldData; could this be corruption?
-[04:28:00] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[04:34:22] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Milys17
-[04:34:32] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 18 marked for death.
-[04:34:32] [VW World Thread 18/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 18 killed
-[04:34:33] [Server thread/INFO] [FML]: Unloading dimension -1
-[04:39:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 has made the advancement [Yo God, Ya Want This?]
-[04:39:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Milys17
-[04:59:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Milys17 lost connection: Disconnected
-[04:59:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Milys17 left the game
-[17:10:09] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[17:10:09] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 92 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,mca@6.1.0,creativecoredummy@1.0.0,openmods@0.12.2,ebwizardry@4.2.11,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,thermalfoundation@2.6.7,neat@1.4-17,glassential@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,valkyrienwarfare@0.9_prerelease_5,bookshelf@2.3.585,harvestcraft@1.12.2zb,llibrary@1.7.19,cofhworld@1.4.0,grimoireofgaia@1.7.2,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,naturalbabyanimals@1.2.2,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,warpbook@@VERSION@,malisisdoors@1.12.2-7.3.0,twilightforest@3.10.1013,ftbutilities@5.4.0.124,chesttransporter@2.8.8,openblocks@1.8.1,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,thermaldynamics@2.5.6,baubles@1.5.2,redstoneflux@2.1.1,roost@2.0.10,cxlibrary@1.6.1,openmodscore@0.12.2,creativecore@1.10.0,msmlegacy@@VERSION@,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,mocreatures@12.0.5,mantle@1.12-1.3.3.55,patchouli@1.0-20,spartanshields@1.5.4,abyssalcraft@1.9.18,thebetweenlands@3.5.10,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,thermalexpansion@5.5.7,opframe@1.4.0,fastfurnace@1.3.1,naturesaura@18.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0
-[17:10:09] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[17:10:09] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[17:10:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:10:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: soruame[/201.240.145.152:40380] logged in with entity id 295424 at (-2232.222564661444, 64.0, -1993.265228522615)
-[17:10:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame joined the game
-[17:10:13] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for soruame
-[17:10:13] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for soruame
-[17:10:13] [Server thread/INFO] [ebwizardry]: Synchronising config settings for soruame
-[17:10:13] [Server thread/INFO] [ebwizardry]: Synchronising advancements for soruame
-[17:10:13] [Server thread/INFO] [Waila]: Player EntityPlayerMP['soruame'/295424, l='world', x=-2232.22, y=64.00, z=-1993.27] connected. Sending ping
-[17:12:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: soruame lost connection: Disconnected
-[17:12:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame left the game
-[20:04:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[20:04:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[20:04:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[20:04:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[20:04:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[20:04:36] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 0 marked for death.
-[20:04:36] [VW World Thread 0/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 0 killed
-[20:04:36] [Server thread/INFO] [FML]: Unloading dimension 0
-[20:04:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[20:04:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[20:04:36] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:39:17] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[03:39:17] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 92 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,mca@6.1.0,creativecoredummy@1.0.0,openmods@0.12.2,ebwizardry@4.2.11,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,thermalfoundation@2.6.7,neat@1.4-17,glassential@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,valkyrienwarfare@0.9_prerelease_5,bookshelf@2.3.585,harvestcraft@1.12.2zb,llibrary@1.7.19,cofhworld@1.4.0,grimoireofgaia@1.7.2,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,naturalbabyanimals@1.2.2,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,warpbook@@VERSION@,malisisdoors@1.12.2-7.3.0,twilightforest@3.10.1013,ftbutilities@5.4.0.124,chesttransporter@2.8.8,openblocks@1.8.1,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,thermaldynamics@2.5.6,baubles@1.5.2,redstoneflux@2.1.1,roost@2.0.10,cxlibrary@1.6.1,openmodscore@0.12.2,creativecore@1.10.0,msmlegacy@@VERSION@,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,mocreatures@12.0.5,mantle@1.12-1.3.3.55,patchouli@1.0-20,spartanshields@1.5.4,abyssalcraft@1.9.18,thebetweenlands@3.5.10,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,thermalexpansion@5.5.7,opframe@1.4.0,fastfurnace@1.3.1,naturesaura@18.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0
+[03:39:17] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[03:39:17] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:39:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:39:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: soruame[/201.240.145.152:57746] logged in with entity id 1510301 at (-2229.9987420625607, 64.0, -1979.3934980929876)
+[03:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame joined the game
+[03:39:21] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for soruame
+[03:39:21] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for soruame
+[03:39:21] [Server thread/INFO] [ebwizardry]: Synchronising config settings for soruame
+[03:39:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for soruame
+[03:39:21] [Server thread/INFO] [Waila]: Player EntityPlayerMP['soruame'/1510301, l='world', x=-2230.00, y=64.00, z=-1979.39] connected. Sending ping
+[04:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame is bleeding...
+[04:02:17] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /home/minecraft/./world/data/inventory-soruame-2020-05-05_04.02.17-death-0.dat. It can be restored with command '/ob_inventory restore soruame soruame-2020-05-05_04.02.17-death-0'
+[04:02:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame was slain by Minotaurus
+[04:02:17] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (cfaf8182-9777-3f53-ba75-fbba2f9cc412,soruame) was spawned at (BlockPos{x=-2149, y=64, z=-2049}) (player died at (BlockPos{x=-2148, y=64, z=-2049}))
+[04:20:02] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@79a41d39)
+[04:20:02] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.physmanagement.chunk.DimensionPhysicsChunkManager:initWorld:40]: Physics Chunk Manager Initialized
+[04:20:02] [Server thread/INFO] [STDERR]: [valkyrienwarfare.mod.physmanagement.chunk.ChunkClaimWorldData:get:48]: Had to create a null ChunkKeysWorldData; could this be corruption?
+[04:20:26] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 23 marked for death.
+[04:20:26] [VW World Thread 23/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 23 killed
+[04:20:27] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:45:17] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@79a41d39)
+[04:45:17] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.physmanagement.chunk.DimensionPhysicsChunkManager:initWorld:40]: Physics Chunk Manager Initialized
+[04:45:17] [Server thread/INFO] [STDERR]: [valkyrienwarfare.mod.physmanagement.chunk.ChunkClaimWorldData:get:48]: Had to create a null ChunkKeysWorldData; could this be corruption?
+[04:45:56] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 24 marked for death.
+[04:45:56] [VW World Thread 24/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 24 killed
+[04:45:56] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:47:12] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@79a41d39)
+[04:47:12] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.physmanagement.chunk.DimensionPhysicsChunkManager:initWorld:40]: Physics Chunk Manager Initialized
+[04:47:12] [Server thread/INFO] [STDERR]: [valkyrienwarfare.mod.physmanagement.chunk.ChunkClaimWorldData:get:48]: Had to create a null ChunkKeysWorldData; could this be corruption?
+[04:47:12] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for soruame
+[04:48:06] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for soruame
+[04:48:56] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 25 marked for death.
+[04:48:56] [VW World Thread 25/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 25 killed
+[04:48:57] [Server thread/INFO] [FML]: Unloading dimension -1
+[05:01:18] [Server thread/INFO] [FTB Utilities]: soruame is now AFK
+[05:09:08] [Server thread/INFO] [FTB Utilities]: soruame is no longer AFK
+[05:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <soruame> w
+[05:09:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: soruame lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[05:09:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame left the game
+[05:12:12] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[05:12:12] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 92 mods : wolfarmor@2.2.3.6,cyclopscore@1.6.2,mclib@1.0.4,mowziesmobs@1.5.4,mca@6.1.0,creativecoredummy@1.0.0,openmods@0.12.2,ebwizardry@4.2.11,jei@4.15.0.293,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,nei@2.4.3,dynamiclights@1.4.9,thermalfoundation@2.6.7,neat@1.4-17,glassential@1.0.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,placebo@1.6.0,valkyrienwarfare@0.9_prerelease_5,bookshelf@2.3.585,harvestcraft@1.12.2zb,llibrary@1.7.19,cofhworld@1.4.0,grimoireofgaia@1.7.2,dynamiclights_otherplayers@1.0.9,fossil@8.0.4,naturalbabyanimals@1.2.2,bullseye@3.0.7,ftblib@5.4.7.0,waila@1.8.26,props@2.6.3,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,mysticalworld@1.12.2-1.8.3,forge@14.23.5.2847,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.7.0,warpbook@@VERSION@,malisisdoors@1.12.2-7.3.0,twilightforest@3.10.1013,ftbutilities@5.4.0.124,chesttransporter@2.8.8,openblocks@1.8.1,simpledivegear@1.1.1,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,malisiscore@1.12.2-6.5.1-SNAPSHOT,ptrmodellib@1.0.4,dynamiclights_entityclasses@1.0.1,morefurnaces@1.10.5,thermaldynamics@2.5.6,baubles@1.5.2,redstoneflux@2.1.1,roost@2.0.10,cxlibrary@1.6.1,openmodscore@0.12.2,creativecore@1.10.0,msmlegacy@@VERSION@,dynamiclights_dropitems@1.1.0,rustic@1.1.2,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,mocreatures@12.0.5,mantle@1.12-1.3.3.55,patchouli@1.0-20,spartanshields@1.5.4,abyssalcraft@1.9.18,thebetweenlands@3.5.10,gravestone@1.10.1,securitycraft@v1.8.14,FML@8.0.99.99,gottschcore@1.12.1,thermalexpansion@5.5.7,opframe@1.4.0,fastfurnace@1.3.1,naturesaura@18.1,chisel@MC1.12.2-1.0.2.45,recipehandler@0.13,bookworm@1.12.2-2.5.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,backpack@3.0.2,codechickenlib@3.2.3.358,dynamictrees@1.12.2-0.9.7,playerrevive@1.0
+[05:12:12] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[05:12:12] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[05:12:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:12:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: soruame[/201.240.145.152:7864] logged in with entity id 1640410 at (-2238.5, 64.0, -1995.5)
+[05:12:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame joined the game
+[05:12:17] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for soruame
+[05:12:17] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for soruame
+[05:12:17] [Server thread/INFO] [ebwizardry]: Synchronising config settings for soruame
+[05:12:17] [Server thread/INFO] [ebwizardry]: Synchronising advancements for soruame
+[05:12:17] [Server thread/INFO] [Waila]: Player EntityPlayerMP['soruame'/1640410, l='world', x=-2238.50, y=64.00, z=-1995.50] connected. Sending ping
+[05:21:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame's Vex was slain by Lightning Wraith
+[05:23:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: soruame lost connection: Disconnected
+[05:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: soruame left the game
+[20:15:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[20:15:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:15:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:15:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:15:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[20:15:17] [Server thread/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:kill:231]: VW World Thread 0 marked for death.
+[20:15:17] [VW World Thread 0/INFO] [STDOUT]: [valkyrienwarfare.mod.multithreaded.VWThread:run:124]: VW World Thread 0 killed
+[20:15:17] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:15:17] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:15:17] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:15:17] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
