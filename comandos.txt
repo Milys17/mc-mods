@@ -1,0 +1,1 @@
+/execute (playername) ~0 ~0 ~0 /summon lightning_bolt @p

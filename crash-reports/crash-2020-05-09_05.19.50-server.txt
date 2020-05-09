@@ -1,0 +1,154 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  OpenModsCorePlugin (OpenModsLib-1.12.2-0.12.2.jar)
+  ApotheosisCore (Apotheosis-1.12.2-1.12.5.jar)
+Contact their authors BEFORE contacting forge
+
+// There are four lights!
+
+Time: 5/9/20 5:19 AM
+Description: Ticking entity
+
+java.lang.NullPointerException: Null string not allowed
+	at java.util.Objects.requireNonNull(Objects.java:228)
+	at net.minecraft.nbt.NBTTagString.<init>(NBTTagString.java:19)
+	at net.minecraft.nbt.NBTTagCompound.func_74778_a(NBTTagCompound.java:138)
+	at net.minecraft.entity.Entity.serializeNBT(Entity.java:3132)
+	at com.branders.spawnermod.event.SpawnerEventHandler.onMobDrop(SpawnerEventHandler.java:141)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_334_SpawnerEventHandler_onMobDrop_LivingDropsEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraft.entity.player.EntityPlayerMP.func_70645_a(EntityPlayerMP.java:510)
+	at net.minecraft.entity.EntityLivingBase.func_70097_a(EntityLivingBase.java:1023)
+	at net.minecraft.entity.player.EntityPlayer.func_70097_a(EntityPlayer.java:1038)
+	at net.minecraft.entity.player.EntityPlayerMP.func_70097_a(EntityPlayerMP.java:645)
+	at net.minecraft.world.Explosion.func_77278_a(Explosion.java:159)
+	at net.minecraft.world.WorldServer.func_72885_a(WorldServer.java:1169)
+	at net.minecraft.world.World.func_72876_a(World.java:2303)
+	at net.minecraft.entity.monster.EntityCreeper.func_146077_cc(EntityCreeper.java:271)
+	at net.minecraft.entity.monster.EntityCreeper.func_70071_h_(EntityCreeper.java:168)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.Objects.requireNonNull(Objects.java:228)
+	at net.minecraft.nbt.NBTTagString.<init>(NBTTagString.java:19)
+	at net.minecraft.nbt.NBTTagCompound.func_74778_a(NBTTagCompound.java:138)
+	at net.minecraft.entity.Entity.serializeNBT(Entity.java:3132)
+	at com.branders.spawnermod.event.SpawnerEventHandler.onMobDrop(SpawnerEventHandler.java:141)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_334_SpawnerEventHandler_onMobDrop_LivingDropsEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraft.entity.player.EntityPlayerMP.func_70645_a(EntityPlayerMP.java:510)
+	at net.minecraft.entity.EntityLivingBase.func_70097_a(EntityLivingBase.java:1023)
+	at net.minecraft.entity.player.EntityPlayer.func_70097_a(EntityPlayer.java:1038)
+	at net.minecraft.entity.player.EntityPlayerMP.func_70097_a(EntityPlayerMP.java:645)
+	at net.minecraft.world.Explosion.func_77278_a(Explosion.java:159)
+	at net.minecraft.world.WorldServer.func_72885_a(WorldServer.java:1169)
+	at net.minecraft.world.World.func_72876_a(World.java:2303)
+	at net.minecraft.entity.monster.EntityCreeper.func_146077_cc(EntityCreeper.java:271)
+	at net.minecraft.entity.monster.EntityCreeper.func_70071_h_(EntityCreeper.java:168)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:creeper (net.minecraft.entity.monster.EntityCreeper)
+	Entity ID: 628427
+	Entity Name: Creeper
+	Entity's Exact location: -511.02, 12.00, 452.50
+	Entity's Block location: World: (-512,12,452), Chunk: (at 0,0,4 in -32,28; contains blocks -512,0,448 to -497,255,463), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Entity's Momentum: 0.00, -0.08, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 5 total; [EntityPlayerMP['Milys17'/1786, l='world', x=-64.03, y=70.00, z=225.65], EntityPlayerMP['soruame'/3375, l='world', x=-872.22, y=65.75, z=775.30], EntityPlayerMP['Daniel099'/4076, l='world', x=-372.89, y=75.00, z=439.06], EntityPlayerMP['Batman'/2862, l='world', x=-764.60, y=75.00, z=679.80], EntityPlayerMP['Koutarou'/284522, l='world', x=-507.17, y=13.17, z=450.30]]
+	Chunk stats: ServerChunkCache: 1841 Drop: 0
+	Level seed: 479789726472245596
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (122,64,276), Chunk: (at 10,4,4 in 7,17; contains blocks 112,0,272 to 127,255,287), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 142818 game time, 11596 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 14729 (now: true), thunder time: 19889 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.9.0-12-amd64
+	Java Version: 1.8.0_252, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3995315800 bytes (3810 MB) / 5394399232 bytes (5144 MB) up to 5726797824 bytes (5461 MB)
+	JVM Flags: 2 total; -Xms4G -Xmx6G
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 25 mods loaded, 25 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID               | Version          | Source                                               | Signature                                |
+	|:------ |:---------------- |:---------------- |:---------------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft        | 1.12.2           | minecraft.jar                                        | None                                     |
+	| LCHIJA | mcp              | 9.42             | minecraft.jar                                        | None                                     |
+	| LCHIJA | FML              | 8.0.99.99        | server.jar                                           | None                                     |
+	| LCHIJA | forge            | 14.23.5.2847     | server.jar                                           | None                                     |
+	| LCHIJA | openmodscore     | 0.12.2           | minecraft.jar                                        | None                                     |
+	| LCHIJA | abyssalcraft     | 1.9.18           | AbyssalCraft-1.12.2-1.9.18.jar                       | 220f10d3a93b3ff5fbaa7434cc629d863d6751b9 |
+	| LCHIJA | placebo          | 1.6.0            | Placebo-1.12.2-1.6.0 (1).jar                         | None                                     |
+	| LCHIJA | apotheosis       | 1.12.4           | Apotheosis-1.12.2-1.12.5.jar                         | None                                     |
+	| LCHIJA | baubles          | 1.5.2            | Baubles-1.12-1.5.2 (1).jar                           | None                                     |
+	| LCHIJA | guideapi         | 1.12-2.1.8-63    | Guide-API-1.12-2.1.8-63 (1).jar                      | None                                     |
+	| LCHIJA | bloodmagic       | 1.12.2-2.4.3-105 | BloodMagic-1.12.2-2.4.3-105 (1).jar                  | None                                     |
+	| LCHIJA | spawnermod       | 1.0-1.12.2       | branders-enhanced-mob-spawners-v1.12.2-1.4.4.jar.jar | None                                     |
+	| LCHIJA | chesttransporter | 2.8.8            | ChestTransporter-1.12.2-2.8.8 (1).jar                | None                                     |
+	| LCHIJA | configurablecane | 1.0              | ConfigurableCane-1.0.jar                             | None                                     |
+	| LCHIJA | cyclopscore      | 1.6.2            | CyclopsCore-1.12.2-1.6.2.jar                         | bd0353b3e8a2810d60dd584e256e364bc3bedd44 |
+	| LCHIJA | ebwizardry       | 4.2.11           | ElectroblobsWizardry-4.2.11-MC1.12.2.jar             | None                                     |
+	| LCHIJA | evilcraft        | 0.10.78          | EvilCraft-1.12.2-0.10.78.jar                         | bd0353b3e8a2810d60dd584e256e364bc3bedd44 |
+	| LCHIJA | evilcraftcompat  | 1.0.0            | EvilCraft-1.12.2-0.10.78.jar                         | None                                     |
+	| LCHIJA | ic2              | 2.8.170-ex112    | industrialcraft-2-2.8.170-ex112 (1).jar              | de041f9f6187debbc77034a344134053277aa3b0 |
+	| LCHIJA | mysticalworld    | 1.12.2-1.8.3     | mysticalworld-1.12.2-1.8.3.jar                       | None                                     |
+	| LCHIJA | openmods         | 0.12.2           | OpenModsLib-1.12.2-0.12.2.jar                        | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| LCHIJA | openblocks       | 1.8.1            | OpenBlocks-1.12.2-1.8.1.jar                          | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| LCHIJA | patchouli        | 1.0-20           | Patchouli-1.0-20.jar                                 | None                                     |
+	| LCHIJA | warpbook         | @VERSION@        | Warpbook-1.12.2-3.2.0.jar                            | None                                     |
+	| LCHIJA | mysticallib      | 1.12.2-1.7.0     | mysticallib-1.12.2-1.7.0.jar                         | None                                     |
+
+	Loaded coremods (and transformers): 
+OpenModsCorePlugin (OpenModsLib-1.12.2-0.12.2.jar)
+  openmods.core.OpenModsClassTransformer
+ApotheosisCore (Apotheosis-1.12.2-1.12.5.jar)
+  shadows.ApotheosisTransformer
+	OpenModsLib class transformers: [llama_null_fix:FINISHED],[horse_base_null_fix:FINISHED],[pre_world_render_hook:ENABLED],[player_render_hook:ENABLED],[horse_null_fix:FINISHED]
+	Profiler Position: N/A (disabled)
+	Player Count: 5 / 15; [EntityPlayerMP['Milys17'/1786, l='world', x=-64.03, y=70.00, z=225.65], EntityPlayerMP['soruame'/3375, l='world', x=-872.22, y=65.75, z=775.30], EntityPlayerMP['Daniel099'/4076, l='world', x=-372.89, y=75.00, z=439.06], EntityPlayerMP['Batman'/2862, l='world', x=-764.60, y=75.00, z=679.80], EntityPlayerMP['Koutarou'/284522, l='world', x=-507.17, y=13.17, z=450.30]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
