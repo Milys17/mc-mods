@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-05-11 01:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-05-11 16:20:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-05-09 04:58:37 +0000"
@@ -107,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-05-11 01:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-05-09 19:15:58 +0000"
@@ -140,6 +158,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-05-09 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-05-11 16:20:55 +0000"
     },
     "done": true
   },
@@ -251,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-05-11 03:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2020-05-09 03:28:14 +0000"
@@ -293,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-05-11 18:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-05-09 04:16:52 +0000"
@@ -329,10 +365,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2020-05-11 04:25:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-05-09 04:43:24 +0000",
       "cooked_mutton": "2020-05-09 17:56:25 +0000",
+      "cooked_beef": "2020-05-11 14:05:35 +0000",
+      "clownfish": "2020-05-11 15:00:53 +0000",
+      "raw_salmon": "2020-05-11 15:00:57 +0000",
+      "golden_apple": "2020-05-11 14:33:33 +0000",
+      "rotten_flesh": "2020-05-10 20:47:17 +0000",
+      "raw_cod": "2020-05-11 16:24:24 +0000",
       "beetroot": "2020-05-09 04:34:12 +0000",
       "cooked_chicken": "2020-05-09 18:13:35 +0000",
       "carrot": "2020-05-09 03:32:28 +0000"
@@ -399,6 +447,12 @@
     },
     "done": true
   },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "lightning": "2020-05-11 18:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-09 18:21:10 +0000"
@@ -453,6 +507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-05-11 16:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-05-09 19:15:58 +0000"
@@ -483,9 +543,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2020-05-11 04:25:29 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2020-05-11 12:36:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-05-09 19:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2020-05-11 18:30:49 +0000"
     },
     "done": true
   },
@@ -498,6 +576,12 @@
   "evilcraft:second_age": {
     "criteria": {
       "criteria_0": "2020-05-09 04:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-05-11 17:07:18 +0000"
     },
     "done": true
   },
@@ -525,9 +609,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2020-05-10 21:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-09 18:21:10 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_trade": {
+    "criteria": {
+      "criteria_0": "2020-05-11 17:38:58 +0000"
     },
     "done": true
   },
@@ -615,6 +711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-05-11 00:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-05-09 04:46:30 +0000"
@@ -636,6 +738,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-05-09 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-05-11 06:24:13 +0000"
     },
     "done": true
   },
@@ -687,6 +795,13 @@
     },
     "done": true
   },
+  "ebwizardry:all_artefacts": {
+    "criteria": {
+      "ring_earth_biome": "2020-05-11 17:29:37 +0000",
+      "ring_interdiction": "2020-05-11 18:03:04 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-05-09 03:32:01 +0000"
@@ -726,6 +841,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-05-09 03:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-05-11 04:22:41 +0000"
     },
     "done": true
   },
@@ -771,6 +892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-05-11 01:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2020-05-09 03:24:06 +0000"
@@ -809,13 +936,17 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2020-05-11 16:16:22 +0000",
       "wither_skeleton": "2020-05-09 21:27:39 +0000",
       "skeleton": "2020-05-09 03:29:44 +0000",
       "blaze": "2020-05-09 21:29:57 +0000",
       "zombie": "2020-05-09 03:35:22 +0000",
+      "cave_spider": "2020-05-11 09:16:10 +0000",
       "witch": "2020-05-09 04:30:57 +0000",
       "spider": "2020-05-09 18:04:48 +0000",
-      "creeper": "2020-05-09 19:54:10 +0000"
+      "ghast": "2020-05-11 04:10:48 +0000",
+      "creeper": "2020-05-09 19:54:10 +0000",
+      "enderman": "2020-05-10 23:33:17 +0000"
     },
     "done": false
   },
@@ -837,9 +968,21 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-05-11 02:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-05-09 05:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-05-11 16:58:21 +0000"
     },
     "done": true
   },
@@ -867,6 +1010,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-05-11 01:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2020-05-11 07:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2020-05-09 05:10:00 +0000"
@@ -876,6 +1031,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2020-05-09 19:15:07 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:artefact": {
+    "criteria": {
+      "ring_earth_biome": "2020-05-11 17:29:37 +0000"
     },
     "done": true
   },
@@ -897,6 +1058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2020-05-11 07:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2020-05-09 18:03:36 +0000"
@@ -906,6 +1073,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-05-09 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2020-05-11 17:17:01 +0000"
     },
     "done": true
   },
@@ -1005,6 +1178,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-05-11 00:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-05-10 21:39:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-05-09 03:32:01 +0000"
@@ -1037,14 +1222,42 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "iceball": "2020-05-11 18:45:53 +0000",
+      "freeze": "2020-05-11 12:18:37 +0000",
+      "metamorphosis": "2020-05-11 18:44:44 +0000",
+      "conjure_bow": "2020-05-11 18:46:04 +0000",
+      "flame_ray": "2020-05-11 18:45:42 +0000",
+      "pocket_furnace": "2020-05-11 18:42:58 +0000",
+      "empowering_presence": "2020-05-11 18:42:39 +0000",
       "light": "2020-05-09 04:44:09 +0000",
+      "snowball": "2020-05-10 23:19:09 +0000",
+      "shield": "2020-05-11 18:47:24 +0000",
       "thunderbolt": "2020-05-09 20:42:46 +0000",
+      "summon_zombie": "2020-05-10 23:19:11 +0000",
+      "ward": "2020-05-11 12:12:29 +0000",
       "dart": "2020-05-09 19:18:26 +0000",
+      "arc": "2020-05-10 23:20:25 +0000",
+      "bubble": "2020-05-11 18:42:51 +0000",
       "leap": "2020-05-09 04:44:15 +0000",
+      "charge": "2020-05-11 18:44:34 +0000",
+      "poison": "2020-05-11 18:49:59 +0000",
+      "summon_snow_golem": "2020-05-11 18:50:36 +0000",
+      "conjure_pickaxe": "2020-05-11 18:44:03 +0000",
+      "ignite": "2020-05-10 23:19:14 +0000",
+      "lightning_ray": "2020-05-11 18:44:29 +0000",
       "snare": "2020-05-09 04:43:39 +0000",
       "magic_missile": "2020-05-09 04:55:32 +0000",
       "evade": "2020-05-09 20:42:44 +0000",
-      "smoke_bomb": "2020-05-09 21:03:27 +0000"
+      "mind_trick": "2020-05-10 23:19:18 +0000",
+      "firebolt": "2020-05-11 18:47:29 +0000",
+      "smoke_bomb": "2020-05-09 21:03:27 +0000",
+      "ice_statue": "2020-05-11 18:50:47 +0000",
+      "ice_shard": "2020-05-11 18:46:18 +0000",
+      "conjure_block": "2020-05-10 23:20:29 +0000",
+      "agility": "2020-05-11 18:42:34 +0000",
+      "heal": "2020-05-11 03:04:29 +0000",
+      "wither": "2020-05-11 18:42:54 +0000",
+      "oakflesh": "2020-05-11 18:44:19 +0000"
     },
     "done": false
   },
@@ -1132,6 +1345,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2020-05-11 16:13:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2020-05-09 03:28:14 +0000"
@@ -1147,6 +1366,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2020-05-09 17:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-05-11 00:16:03 +0000"
     },
     "done": true
   },
@@ -1264,6 +1489,12 @@
     },
     "done": true
   },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2020-05-11 17:27:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-05-09 03:40:10 +0000"
@@ -1285,6 +1516,18 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-05-09 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2020-05-10 20:31:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-05-11 09:15:01 +0000"
     },
     "done": true
   },
@@ -1342,6 +1585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-05-11 01:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-05-10 20:13:12 +0000"
@@ -1357,6 +1606,12 @@
   "ebwizardry:spell_failure": {
     "criteria": {
       "criteria_0": "2020-05-09 04:42:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-05-11 00:16:03 +0000"
     },
     "done": true
   },
@@ -1387,6 +1642,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-05-09 05:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-05-11 00:02:11 +0000"
     },
     "done": true
   },
@@ -1444,6 +1705,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-05-11 09:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-05-11 00:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-05-09 04:53:27 +0000"
@@ -1468,15 +1741,29 @@
       "frozen_river": "2020-05-09 04:24:14 +0000",
       "forest": "2020-05-09 04:59:00 +0000",
       "birch_forest": "2020-05-09 04:30:32 +0000",
+      "swampland": "2020-05-11 17:23:17 +0000",
+      "beaches": "2020-05-11 17:09:11 +0000",
       "extreme_hills_with_trees": "2020-05-09 04:30:02 +0000",
+      "desert_hills": "2020-05-11 16:57:52 +0000",
       "forest_hills": "2020-05-09 19:07:30 +0000",
       "plains": "2020-05-09 03:23:51 +0000",
+      "savanna": "2020-05-11 17:02:34 +0000",
+      "jungle_hills": "2020-05-11 17:01:14 +0000",
+      "jungle_edge": "2020-05-11 17:00:43 +0000",
+      "savanna_rock": "2020-05-11 17:13:02 +0000",
       "ice_mountains": "2020-05-09 04:24:32 +0000",
       "taiga": "2020-05-09 04:49:39 +0000",
+      "redwood_taiga": "2020-05-11 17:38:22 +0000",
+      "taiga_hills": "2020-05-11 04:23:04 +0000",
+      "redwood_taiga_hills": "2020-05-11 17:40:57 +0000",
       "birch_forest_hills": "2020-05-09 04:32:29 +0000",
+      "ocean": "2020-05-11 17:10:20 +0000",
       "extreme_hills": "2020-05-09 04:30:20 +0000",
       "roofed_forest": "2020-05-09 04:29:03 +0000",
-      "river": "2020-05-09 04:30:00 +0000"
+      "river": "2020-05-09 04:30:00 +0000",
+      "jungle": "2020-05-11 17:00:45 +0000",
+      "desert": "2020-05-11 16:57:55 +0000",
+      "stone_beach": "2020-05-11 17:42:05 +0000"
     },
     "done": false
   },
@@ -1498,9 +1785,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2020-05-11 00:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2020-05-09 21:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-05-11 09:03:16 +0000"
     },
     "done": true
   },
@@ -1552,6 +1851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-05-11 00:16:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2020-05-09 03:32:17 +0000"
@@ -1573,6 +1878,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-05-09 03:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-05-11 03:21:49 +0000"
     },
     "done": true
   },
@@ -1654,6 +1965,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "summon_zombie": "2020-05-10 23:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-09 18:21:10 +0000"
@@ -1663,6 +1980,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-05-09 04:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2020-05-11 00:16:03 +0000"
     },
     "done": true
   },
@@ -1729,6 +2052,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-09 18:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2020-05-11 09:27:05 +0000"
     },
     "done": true
   },
