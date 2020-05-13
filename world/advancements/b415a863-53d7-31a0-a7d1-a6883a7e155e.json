@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_the_recipe": "2020-05-12 03:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-05-09 04:58:19 +0000"
@@ -62,6 +68,12 @@
   "mysticalworld:root": {
     "criteria": {
       "auto": "2020-05-09 03:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-05-12 03:10:28 +0000"
     },
     "done": true
   },
@@ -92,6 +104,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-05-09 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-05-12 02:11:22 +0000"
     },
     "done": true
   },
@@ -293,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-05-12 03:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-05-09 03:42:47 +0000"
@@ -363,6 +387,7 @@
       "mutton": "2020-05-09 22:15:57 +0000",
       "bread": "2020-05-10 02:20:39 +0000",
       "rotten_flesh": "2020-05-10 00:40:18 +0000",
+      "cooked_chicken": "2020-05-12 03:15:37 +0000",
       "carrot": "2020-05-10 23:32:29 +0000"
     },
     "done": false
@@ -511,6 +536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-05-12 03:10:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-09 03:35:05 +0000"
@@ -569,6 +600,12 @@
     "criteria": {
       "iron_boots": "2020-05-11 04:01:40 +0000",
       "iron_leggings": "2020-05-11 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-05-12 03:10:28 +0000"
     },
     "done": true
   },
@@ -683,6 +720,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-05-09 03:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2020-05-12 03:50:09 +0000"
     },
     "done": true
   },
@@ -953,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-05-12 02:11:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-09 03:35:05 +0000"
@@ -1022,7 +1071,8 @@
   "ebwizardry:all_spells": {
     "criteria": {
       "summon_zombie": "2020-05-11 05:18:11 +0000",
-      "magic_missile": "2020-05-11 05:17:56 +0000"
+      "magic_missile": "2020-05-11 05:17:56 +0000",
+      "mind_trick": "2020-05-12 02:05:03 +0000"
     },
     "done": false
   },
@@ -1083,6 +1133,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-05-09 03:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_the_recipe": "2020-05-12 03:49:57 +0000"
     },
     "done": true
   },
@@ -1278,6 +1334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2020-05-12 03:50:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2020-05-09 19:45:00 +0000"
@@ -1407,6 +1469,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-05-11 02:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-05-12 03:10:28 +0000"
     },
     "done": true
   },
@@ -1589,6 +1657,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2020-05-10 21:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-05-12 03:10:28 +0000"
     },
     "done": true
   },
