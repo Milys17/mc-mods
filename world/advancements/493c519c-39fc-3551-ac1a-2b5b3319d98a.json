@@ -812,6 +812,12 @@
     },
     "done": true
   },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2020-05-13 04:59:23 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/tome_of_arcana": {
     "criteria": {
       "criteria_0": "2020-05-12 05:14:12 +0000"

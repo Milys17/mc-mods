@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2020-05-13 02:55:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2020-05-11 20:44:09 +0000"
@@ -517,6 +523,12 @@
   "mysticalworld:amethyst": {
     "criteria": {
       "book": "2020-05-09 05:07:03 +0000"
+    },
+    "done": true
+  },
+  "abyssalcraft:shadow_gems": {
+    "criteria": {
+      "necronomicon": "2020-05-13 03:50:37 +0000"
     },
     "done": true
   },
@@ -1009,6 +1021,7 @@
       "wither_skeleton": "2020-05-09 21:27:39 +0000",
       "zombie_villager": "2020-05-11 21:29:34 +0000",
       "magma_cube": "2020-05-12 09:21:31 +0000",
+      "slime": "2020-05-13 04:57:53 +0000",
       "skeleton": "2020-05-09 03:29:44 +0000",
       "husk": "2020-05-12 03:13:05 +0000",
       "blaze": "2020-05-09 21:29:57 +0000",
@@ -1253,6 +1266,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2020-05-09 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "abyssalcraft:root": {
+    "criteria": {
+      "necronomicon": "2020-05-13 03:47:49 +0000"
     },
     "done": true
   },
@@ -1729,6 +1748,12 @@
     },
     "done": true
   },
+  "abyssalcraft:mine_coralium": {
+    "criteria": {
+      "gem": "2020-05-13 04:11:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2020-05-11 01:39:43 +0000"
@@ -1762,6 +1787,12 @@
   "ebwizardry:master": {
     "criteria": {
       "magic": "2020-05-11 20:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2020-05-13 04:57:56 +0000"
     },
     "done": true
   },
@@ -1846,6 +1877,12 @@
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2020-05-13 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "abyssalcraft:dreadium": {
+    "criteria": {
+      "abyssalnite": "2020-05-13 14:42:40 +0000"
     },
     "done": true
   },
@@ -2215,6 +2252,12 @@
     },
     "done": true
   },
+  "abyssalcraft:mine_abyssal_ores": {
+    "criteria": {
+      "copper": "2020-05-13 06:29:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2020-05-11 00:16:03 +0000"
@@ -2344,6 +2387,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-05-09 18:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2020-05-13 04:57:56 +0000"
     },
     "done": true
   },
