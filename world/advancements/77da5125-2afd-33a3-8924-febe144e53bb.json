@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-05-14 01:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2020-05-11 18:39:24 +0000"
@@ -405,6 +411,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-05-11 17:44:16 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "magic": "2020-05-14 01:42:35 +0000"
     },
     "done": true
   },
@@ -978,7 +990,13 @@
   },
   "ebwizardry:all_spells": {
     "criteria": {
+      "spark_bomb": "2020-05-14 01:51:10 +0000",
+      "frost_ray": "2020-05-14 01:53:26 +0000",
+      "homing_spark": "2020-05-14 01:51:18 +0000",
+      "iceball": "2020-05-14 01:52:40 +0000",
       "freeze": "2020-05-12 01:29:15 +0000",
+      "imbue_weapon": "2020-05-14 01:53:19 +0000",
+      "empowering_presence": "2020-05-14 01:51:26 +0000",
       "snowball": "2020-05-12 05:23:07 +0000",
       "thunderbolt": "2020-05-12 01:26:49 +0000",
       "summon_zombie": "2020-05-12 01:26:55 +0000",
@@ -987,13 +1005,21 @@
       "arc": "2020-05-12 01:31:23 +0000",
       "leap": "2020-05-12 05:14:40 +0000",
       "mine": "2020-05-12 01:29:46 +0000",
+      "charge": "2020-05-14 01:59:41 +0000",
+      "summon_snow_golem": "2020-05-14 02:04:28 +0000",
+      "conjure_pickaxe": "2020-05-14 01:59:27 +0000",
       "ignite": "2020-05-12 01:27:07 +0000",
       "snare": "2020-05-12 01:29:42 +0000",
       "evade": "2020-05-12 05:25:28 +0000",
       "mind_trick": "2020-05-12 01:31:54 +0000",
       "smoke_bomb": "2020-05-12 01:31:17 +0000",
+      "firebomb": "2020-05-14 02:06:01 +0000",
       "conjure_block": "2020-05-12 05:15:39 +0000",
-      "heal": "2020-05-12 01:33:31 +0000"
+      "summon_skeleton": "2020-05-14 02:04:21 +0000",
+      "pocket_workbench": "2020-05-14 02:03:23 +0000",
+      "heal": "2020-05-12 01:33:31 +0000",
+      "grapple": "2020-05-14 01:43:18 +0000",
+      "wither": "2020-05-14 02:01:07 +0000"
     },
     "done": false
   },
@@ -1523,6 +1549,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-05-11 17:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-05-14 02:04:33 +0000"
     },
     "done": true
   },
